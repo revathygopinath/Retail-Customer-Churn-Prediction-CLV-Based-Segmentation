@@ -1,5 +1,12 @@
 # Retail Customer Churn Prediction & CLV-Based Segmentation
 
+## Live Demo
+
+🚀 **Streamlit Application:**  
+https://retail-customer-churn-prediction-clv-based-segmentation-zehh7s.streamlit.app/
+
+Click the link above to explore the interactive dashboard, customer segmentation insights, churn predictions, CLV analysis, SHAP explainability, and retention strategy recommendations.
+
 > **End-to-End Machine Learning Solution for Customer Retention**  
 > Dataset: UCI Online Retail | Models: XGBoost, Random Forest, Logistic Regression  
 > Currency: ₹ (£1 = ₹107, fixed 2010–2011 period rate)
