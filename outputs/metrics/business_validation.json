@@ -1,0 +1,15 @@
+{
+    "recency_churn_correlation": 0.4959,
+    "clv_churn_correlation": -0.3521,
+    "one_timers_in_high_value": 0,
+    "churn_prob_by_segment": {
+        "Champions": 0.17749999463558197,
+        "Loyal": 0.29429998993873596,
+        "At Risk": 0.5972999930381775,
+        "Others": 0.6304000020027161,
+        "Dormant": 0.6947000026702881
+    },
+    "expected_revenue_loss_inr": 284897116.87,
+    "hp_expected_revenue_loss_inr": 17798533.91,
+    "loyalty_clv_inr": 2652941505.09
+}

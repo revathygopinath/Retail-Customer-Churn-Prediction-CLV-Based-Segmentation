@@ -1,0 +1,9 @@
+{
+    "train_auc": 0.7984,
+    "test_auc": 0.7162,
+    "delta": 0.0822,
+    "cv_auc": 0.7288,
+    "cv_std": 0.0139,
+    "verdict": "Overfitting detected \u2014 gap > 0.06, further regularisation needed",
+    "flag": "ALERT"
+}

@@ -1,0 +1,1090 @@
+CustomerID,Churn_Prob,Churn_Pred,Churn,Segment,Priority_Group,Action,Expected_Revenue_Loss,Recency,Frequency,Monetary,Adjusted_CLV
+12353,0.7648923,1,1,Others,Nurture,Low-cost re-engagement (email / push),364.20345917046075,134,1,9523.0,476.15000000000003
+12354,0.60778517,1,1,Others,Nurture,Low-cost re-engagement (email / push),3344.485260020346,162,1,110054.85,5502.7425
+12355,0.6823042,1,1,Others,Nurture,Low-cost re-engagement (email / push),1676.9604483455423,144,1,49155.8,2457.7900000000004
+12358,0.73029476,1,0,Others,Nurture,Low-cost re-engagement (email / push),1581.8191892095206,80,1,43320.02,2166.0009999999997
+12360,0.43206263,0,0,Others,Loyalty,Loyalty rewards & upsell campaign,121168.81801353453,42,2,140221.36,280442.72
+12363,0.5615584,1,1,Others,Nurture,Low-cost re-engagement (email / push),66335.7736787796,39,2,59064.0,118128.0
+12364,0.6200756,1,0,Others,Nurture,Low-cost re-engagement (email / push),1920.511738748789,42,1,61944.44,3097.222
+12372,0.49321043,0,1,Others,Loyalty,Loyalty rewards & upsell campaign,189357.71015228747,1,3,127976.28,383928.83999999997
+12375,0.7455398,1,0,Others,Nurture,Low-cost re-engagement (email / push),759.0377822285891,28,1,20362.1,1018.105
+12378,0.5122169,1,1,Others,Nurture,Low-cost re-engagement (email / push),10685.460497090875,59,1,417224.02999999997,20861.2015
+12379,0.48540422,0,1,Others,Low Priority,No immediate action — monitor,80736.97378676175,11,2,83164.68,166329.36
+12380,0.52179635,1,0,Others,High Priority,Immediate retention offer (discount / VIP upgrade),126689.982065773,8,2,121397.92,242795.84
+12381,0.54255646,1,0,Others,Nurture,Low-cost re-engagement (email / push),2986.1000254471896,49,1,110075.18,5503.759
+12384,0.64861554,1,0,Others,Nurture,Low-cost re-engagement (email / push),738.0541086801588,51,1,22757.829999999998,1137.8915
+12390,0.6529191,1,1,Others,Nurture,Low-cost re-engagement (email / push),1645.04864146024,9,1,50390.58,2519.5290000000005
+12394,0.65506697,1,0,Others,Nurture,Low-cost re-engagement (email / push),1230.3978726625442,147,1,37565.56,1878.278
+12397,0.639663,1,0,Others,Nurture,Low-cost re-engagement (email / push),3449.950965780855,65,1,107867.77,5393.388500000001
+12405,0.56376565,1,1,Others,Nurture,Low-cost re-engagement (email / push),4193.61951626283,78,1,148771.73,7438.586500000001
+12406,0.54977334,1,0,Others,Nurture,Low-cost re-engagement (email / push),4768.5621075853705,113,1,173473.75,8673.6875
+12409,0.41415834,0,1,Others,Loyalty,Loyalty rewards & upsell campaign,970521.1781942083,8,3,1171678.89,2343357.7800000003
+12412,0.4324007,0,1,Others,Loyalty,Loyalty rewards & upsell campaign,158632.45921554565,4,3,122288.16,366864.48
+12418,0.6334612,1,1,Others,Nurture,Low-cost re-engagement (email / push),2265.8291856434944,42,1,71538.06,3576.9030000000002
+12421,0.4677904,0,0,Others,Low Priority,No immediate action — monitor,73362.51980072737,44,3,52275.92,156827.76
+12422,0.506005,1,1,Others,Nurture,Low-cost re-engagement (email / push),111029.01129244566,25,3,73140.92,219422.76
+12424,0.71504706,1,1,Others,Nurture,Low-cost re-engagement (email / push),123052.62041507721,92,2,172090.24,172090.24
+12425,0.60774106,1,1,Others,Nurture,Low-cost re-engagement (email / push),2526.999473456144,8,1,83160.4,4158.0199999999995
+12426,0.6380326,1,1,Others,Nurture,Low-cost re-engagement (email / push),1685.505434283793,124,1,52834.46,2641.723
+12433,0.4289686,0,0,Others,Loyalty,Loyalty rewards & upsell campaign,587077.5234603154,21,3,684289.61,1368579.22
+12434,0.47955367,0,1,Others,Low Priority,No immediate action — monitor,82729.70259094119,14,2,86256.98,172513.96
+12435,0.6632423,1,1,Others,High Priority,Immediate retention offer (discount / VIP upgrade),1010632.8681583226,9,2,761888.15,1523776.3
+12436,0.66121316,1,1,Others,Nurture,Low-cost re-engagement (email / push),1517.6187580708265,29,1,45904.07,2295.2035
+12438,0.5903559,1,0,Others,Nurture,Low-cost re-engagement (email / push),2432.1921075425153,70,1,82397.49,4119.874500000001
+12444,0.20756395,0,0,Others,Loyalty,Loyalty rewards & upsell campaign,168343.0430057587,15,3,270347.27,811041.81
+12447,0.7062759,1,1,Others,Nurture,Low-cost re-engagement (email / push),1630.4177408948244,173,1,46169.43,2308.4715
+12449,0.21284418,0,0,Others,Loyalty,Loyalty rewards & upsell campaign,162579.99951789645,21,3,254615.06,763845.1799999999
+12450,0.68499666,1,1,Others,Nurture,Low-cost re-engagement (email / push),29007.087954869272,86,2,21173.16,42346.32
+12453,0.63350976,1,1,Others,Nurture,Low-cost re-engagement (email / push),2396.5240082558994,64,1,75658.63,3782.9315000000006
+12456,0.45771036,0,0,Others,Loyalty,Loyalty rewards & upsell campaign,178797.95935486554,61,2,195317.8,390635.6
+12458,0.51894575,1,1,Others,Nurture,Low-cost re-engagement (email / push),87444.22768199444,1,2,84251.8,168503.6
+12461,0.63852674,1,1,Others,Nurture,Low-cost re-engagement (email / push),2141.4960810785296,84,1,67076.16,3353.8080000000004
+12465,0.7099038,1,0,Others,Nurture,Low-cost re-engagement (email / push),1560.7440401650072,99,1,43970.58,2198.529
+12473,0.46736878,0,0,Others,Low Priority,No immediate action — monitor,96306.29155088661,44,2,103030.3,206060.59999999998
+12477,0.20135978,0,0,Others,Loyalty,Loyalty rewards & upsell campaign,567713.9169657272,30,3,939800.26,2819400.7800000003
+12488,0.65396875,1,0,Others,Nurture,Low-cost re-engagement (email / push),1343.128542328626,5,1,41076.23,2053.8115000000003
+12492,0.6970958,1,0,Others,Nurture,Low-cost re-engagement (email / push),404.2364502182901,35,1,11597.73,579.8865
+12497,0.73938644,1,1,Others,Nurture,Low-cost re-engagement (email / push),2731.818471232653,11,1,73894.2,3694.71
+12506,0.71413004,1,1,Others,Nurture,Low-cost re-engagement (email / push),280.8137865453959,162,1,7864.5,393.225
+12510,0.55078,1,1,Others,Nurture,Low-cost re-engagement (email / push),96010.8567284882,72,2,87158.99,174317.97999999998
+12513,0.6274835,1,1,Others,Nurture,Low-cost re-engagement (email / push),1874.199994757116,42,1,59737.03,2986.8515
+12516,0.6499645,1,1,Others,High Priority,Immediate retention offer (discount / VIP upgrade),150550.83779844045,7,2,115814.66,231629.32
+12518,0.40911594,0,0,Others,Low Priority,No immediate action — monitor,66514.9778166312,7,2,81291.11,162582.22
+12521,0.61521155,1,1,Others,Nurture,Low-cost re-engagement (email / push),1796.0412060830595,72,1,58387.76,2919.3880000000004
+12526,0.6380326,1,0,Others,Nurture,Low-cost re-engagement (email / push),1653.1456961068511,24,1,51820.1,2591.005
+12534,0.53891855,1,1,Others,Nurture,Low-cost re-engagement (email / push),2774.3152651826445,60,1,102958.61,5147.9305
+12535,0.6280233,1,1,Others,Nurture,Low-cost re-engagement (email / push),96275.28511099218,21,2,76649.45,153298.89999999997
+12545,0.4728101,0,1,Others,Low Priority,No immediate action — monitor,84222.3515610707,5,2,89065.73,178131.46000000002
+12546,0.5896164,1,0,Others,Nurture,Low-cost re-engagement (email / push),2133.0376264894007,7,1,72353.4,3617.67
+12548,0.7465928,1,1,Others,Nurture,Low-cost re-engagement (email / push),268.41505053520206,96,1,7190.400000000001,359.52000000000004
+12550,0.5807855,1,1,Others,Nurture,Low-cost re-engagement (email / push),2562.9138332451585,9,1,88256.81,4412.8405
+12556,0.6204888,1,0,Others,Nurture,Low-cost re-engagement (email / push),1024.931193049997,81,1,33036.25,1651.8125
+12560,0.5254991,1,0,Others,Nurture,Low-cost re-engagement (email / push),3585.57288435173,73,1,136463.52,6823.1759999999995
+12566,0.7213065,1,1,Others,Nurture,Low-cost re-engagement (email / push),1148.6283110179006,16,1,31848.55,1592.4275
+12571,0.63614845,1,0,Others,Nurture,Low-cost re-engagement (email / push),845.2329550981523,51,1,26573.45,1328.6725000000001
+12573,0.7240622,1,1,Others,Nurture,Low-cost re-engagement (email / push),621.8890626413822,157,1,17177.78,858.889
+12579,0.6918798,1,1,Others,Nurture,Low-cost re-engagement (email / push),1430.3556472956539,8,1,41346.94,2067.347
+12580,0.69142467,1,1,Others,Nurture,Low-cost re-engagement (email / push),1404.5566131171586,176,1,40627.9,2031.3950000000002
+12589,0.7708433,1,0,Others,Nurture,Low-cost re-engagement (email / push),468.0753392651677,74,1,12144.5,607.225
+12590,0.7418033,1,1,Others,Nurture,Low-cost re-engagement (email / push),35524.39645564282,141,1,957784.82,47889.241
+12592,0.6609242,1,1,Others,Nurture,Low-cost re-engagement (email / push),56801.41164321899,22,2,42971.2,85942.4
+12596,0.6431575,1,0,Others,Nurture,Low-cost re-engagement (email / push),736.1789566838743,172,1,22892.65,1144.6325000000002
+12604,0.6075917,1,1,Others,Nurture,Low-cost re-engagement (email / push),30709.215074565414,9,2,25271.260000000002,50542.520000000004
+12610,0.45998564,0,0,Others,Low Priority,No immediate action — monitor,51846.729838448766,36,2,112713.8,112713.8
+12612,0.70637786,1,1,Others,Nurture,Low-cost re-engagement (email / push),2524.604374811411,4,1,71480.28,3574.014
+12615,0.52179635,1,0,Others,High Priority,Immediate retention offer (discount / VIP upgrade),123209.40215727092,1,2,118062.73,236125.46000000002
+12616,0.57225746,1,1,Others,Nurture,Low-cost re-engagement (email / push),78535.583632195,25,2,68619.1,137238.2
+12620,0.44587588,0,0,Others,Low Priority,No immediate action — monitor,89627.50878637313,10,2,100507.23999999999,201014.47999999998
+12622,0.6971389,1,1,Others,Nurture,Low-cost re-engagement (email / push),604.5832587331535,162,1,17344.7,867.2350000000001
+12624,0.5297058,1,1,Others,Nurture,Low-cost re-engagement (email / push),64514.89559459568,36,2,60896.91,121793.82
+12635,0.4044213,0,1,Others,Loyalty,Loyalty rewards & upsell campaign,130613.73093408466,19,2,161482.26,322964.52
+12639,0.7074099,1,1,Others,Nurture,Low-cost re-engagement (email / push),1385.557825345695,168,1,39172.7,1958.635
+12640,0.6060466,1,0,Others,Nurture,Low-cost re-engagement (email / push),2077.340837801248,11,1,68553.83,3427.6915000000004
+12641,0.7945187,1,1,Others,Nurture,Low-cost re-engagement (email / push),620.1734962332249,45,1,15611.3,780.565
+12642,0.7199024,1,0,Others,Nurture,Low-cost re-engagement (email / push),1207.4382964700462,37,1,33544.5,1677.2250000000001
+12644,0.61466146,1,1,Others,Nurture,Low-cost re-engagement (email / push),1571.577779775739,59,1,51136.37,2556.8185000000003
+12648,0.65428567,1,1,Others,Nurture,Low-cost re-engagement (email / push),1050.3035206860304,84,1,32105.35,1605.2675
+12653,0.6997884,1,1,Others,High Priority,Immediate retention offer (discount / VIP upgrade),330935.4587112606,78,2,236453.94999999998,472907.9
+12657,0.67257994,1,0,Others,Nurture,Low-cost re-engagement (email / push),1966.2565279976131,8,1,58469.08,2923.454
+12669,0.39049473,0,1,Others,Loyalty,Loyalty rewards & upsell campaign,117893.06243290546,80,2,150953.46,301906.92000000004
+12688,0.5256607,1,1,Others,Nurture,Low-cost re-engagement (email / push),12840.638884817094,43,1,488552.37,24427.6185
+12689,0.59164435,1,0,Others,Nurture,Low-cost re-engagement (email / push),1503.6111550046503,57,1,50828.21,2541.4105
+12690,0.6522569,1,1,Others,Nurture,Low-cost re-engagement (email / push),1169.0423355813325,135,1,35846.07,1792.3035
+12694,0.65396875,1,0,Others,Nurture,Low-cost re-engagement (email / push),1348.7615021690729,113,1,41248.5,2062.425
+12695,0.58468866,1,0,Others,Nurture,Low-cost re-engagement (email / push),41778.69457368851,37,2,35727.3,71454.6
+12697,0.6152634,1,0,Others,Nurture,Low-cost re-engagement (email / push),75564.6453316915,61,2,61408.369999999995,122816.73999999999
+12700,0.42380762,0,0,Others,Loyalty,Loyalty rewards & upsell campaign,176950.1498166561,86,2,208762.35,417524.69999999995
+12701,0.55735147,1,1,Others,Nurture,Low-cost re-engagement (email / push),82514.40257764101,9,2,74023.67,148047.34
+12703,0.5687545,1,1,Others,Nurture,Low-cost re-engagement (email / push),808.0252442373336,1,1,28413.85,1420.6925
+12715,0.5568872,1,1,Others,Nurture,Low-cost re-engagement (email / push),784.6407127733231,36,1,28179.52,1408.976
+12716,0.5932218,1,0,Others,Nurture,Low-cost re-engagement (email / push),1980.0942288428546,63,1,66757.3,3337.8650000000002
+12717,0.4913775,0,1,Others,Low Priority,No immediate action — monitor,83180.59003219186,81,2,84640.21,169280.41999999998
+12718,0.6607799,1,1,Others,Nurture,Low-cost re-engagement (email / push),714.9886239029468,1,1,21640.75,1082.0375000000001
+12729,0.7099038,1,1,Others,Nurture,Low-cost re-engagement (email / push),1583.7978103596868,43,1,44620.07,2231.0035000000003
+12732,0.6910465,1,1,Others,Nurture,Low-cost re-engagement (email / push),806.9287510321141,109,1,23353.82,1167.691
+12733,0.700264,1,1,Others,Nurture,Low-cost re-engagement (email / push),1438.434993839264,164,1,41082.65,2054.1325
+12739,0.65383965,1,1,Others,Nurture,Low-cost re-engagement (email / push),3412.480005422294,29,1,104382.78,5219.139
+12743,0.49565887,0,1,Others,Low Priority,No immediate action — monitor,27747.112666473386,64,2,55980.26,55980.259999999995
+12750,0.6409308,1,1,Others,Nurture,Low-cost re-engagement (email / push),945.9869001252652,58,1,29519.16,1475.958
+12752,0.7111808,1,1,Others,Nurture,Low-cost re-engagement (email / push),16614.800145869376,11,1,467245.46,23362.273
+12756,0.69496787,1,1,Others,Nurture,Low-cost re-engagement (email / push),416.7221915202141,16,1,11992.560000000001,599.628
+12758,0.42005417,0,1,Others,Loyalty,Loyalty rewards & upsell campaign,250940.46888400734,46,2,298700.13,597400.26
+12763,0.44497734,0,1,Others,Low Priority,No immediate action — monitor,47048.842813415526,68,2,52866.56,105733.12
+12769,0.66454124,1,1,Others,Nurture,Low-cost re-engagement (email / push),4065.8361146163943,168,1,122365.2,6118.26
+12770,0.7318245,1,1,Others,Nurture,Low-cost re-engagement (email / push),5291.279704531133,140,1,144605.15,7230.2575
+12783,0.7164688,1,0,Others,Nurture,Low-cost re-engagement (email / push),1084.846265510559,5,1,30283.14,1514.1570000000002
+12787,0.61063737,1,0,Others,Nurture,Low-cost re-engagement (email / push),41118.63491927385,21,2,33668.62,67337.23999999999
+12790,0.6560988,1,1,Others,Nurture,Low-cost re-engagement (email / push),1035.2070940161943,122,1,31556.44,1577.8220000000001
+12794,0.6752336,1,0,Others,Nurture,Low-cost re-engagement (email / push),1145.162428200245,28,1,33919.0,1695.95
+12798,0.8897276,1,1,Others,Nurture,Low-cost re-engagement (email / push),329.0141458740234,100,1,7395.839999999999,369.792
+12802,0.6926739,1,1,Others,Nurture,Low-cost re-engagement (email / push),1473.3541429293155,116,1,42541.06,2127.053
+12809,0.70129323,1,1,Others,Nurture,Low-cost re-engagement (email / push),1520.6902010475396,107,1,43368.17,2168.4085
+12814,0.90347517,1,1,Others,Nurture,Low-cost re-engagement (email / push),415.3022362146378,31,1,9193.44,459.672
+12815,0.48679596,0,1,Others,Low Priority,No immediate action — monitor,89950.3720221305,77,2,92390.22,184780.44
+12816,0.59814715,1,1,Others,Nurture,Low-cost re-engagement (email / push),50599.77996258737,25,2,42297.1,84594.20000000001
+12820,0.494518,0,0,Others,Low Priority,No immediate action — monitor,41085.1597330159,4,2,41540.61,83081.22
+12821,0.79522634,1,1,Others,Nurture,Low-cost re-engagement (email / push),394.47361419010167,144,1,9921.04,496.0520000000001
+12822,0.62290376,1,0,Others,Nurture,Low-cost re-engagement (email / push),2302.448527345956,17,1,73926.3,3696.3150000000005
+12832,0.63702524,1,0,Others,Nurture,Low-cost re-engagement (email / push),912.68516792655,28,1,28654.6,1432.73
+12833,0.70129323,1,1,Others,Nurture,Low-cost re-engagement (email / push),1565.97586073184,75,1,44659.659999999996,2232.9829999999997
+12837,0.7586231,1,1,Others,Nurture,Low-cost re-engagement (email / push),475.46893900394446,103,1,12535.05,626.7525
+12844,0.68145627,1,0,Others,Nurture,Low-cost re-engagement (email / push),637.5759358353615,60,1,18712.16,935.6080000000001
+12851,0.58284086,1,1,Others,Nurture,Low-cost re-engagement (email / push),358.15629124325517,26,1,12290.02,614.5010000000001
+12864,0.71791124,1,1,Others,Nurture,Low-cost re-engagement (email / push),106.0067742061615,68,1,2953.2,147.66
+12865,0.5615185,1,0,Others,Nurture,Low-cost re-engagement (email / push),2744.507533741057,53,1,97753.06,4887.653
+12871,0.6832981,1,1,Others,Nurture,Low-cost re-engagement (email / push),55659.38689270019,14,2,40728.479999999996,81456.95999999999
+12876,0.6261013,1,0,Others,Nurture,Low-cost re-engagement (email / push),2232.3019416283664,126,1,71308.01,3565.4004999999997
+12879,0.6856998,1,0,Others,Nurture,Low-cost re-engagement (email / push),37249.888479864596,11,2,54323.899999999994,54323.899999999994
+12883,0.63702524,1,0,Others,Nurture,Low-cost re-engagement (email / push),936.132792853117,19,1,29390.76,1469.538
+12884,0.79351324,1,1,Others,Nurture,Low-cost re-engagement (email / push),590.3083845497667,18,1,14878.349999999999,743.9175
+12885,0.6180535,1,0,Others,Nurture,Low-cost re-engagement (email / push),2077.858769952059,53,1,67238.8,3361.9400000000005
+12886,0.58807427,1,0,Others,Nurture,Low-cost re-engagement (email / push),2438.3029291778803,149,1,82925.0,4146.25
+12895,0.54548895,1,0,Others,Nurture,Low-cost re-engagement (email / push),781.538388477564,16,1,28654.600000000002,1432.7300000000002
+12904,0.5725843,1,0,Others,Nurture,Low-cost re-engagement (email / push),749.5652027639746,102,1,26181.829999999998,1309.0915
+12906,0.56616914,1,0,Others,Nurture,Low-cost re-engagement (email / push),109099.30477789283,8,2,192697.37,192697.37
+12915,0.43290302,0,1,Others,Low Priority,No immediate action — monitor,33688.989332214,78,2,38910.55,77821.1
+12917,0.74067277,1,1,Others,Nurture,Low-cost re-engagement (email / push),2353.7839867651464,58,1,63558.0,3177.9
+12922,0.70051175,1,1,Others,Nurture,Low-cost re-engagement (email / push),1519.257982419193,91,1,43375.66,2168.7830000000004
+12925,0.69142467,1,0,Others,Nurture,Low-cost re-engagement (email / push),1362.4236138456165,4,1,39409.17,1970.4585
+12930,0.5387878,1,1,Others,Nurture,Low-cost re-engagement (email / push),47941.98340480327,8,2,44490.6,88981.2
+12936,0.6207727,1,0,Others,Nurture,Low-cost re-engagement (email / push),2651.7926925252677,8,1,85435.22,4271.761
+12940,0.65506697,1,0,Others,Nurture,Low-cost re-engagement (email / push),1266.1098309695722,17,1,38655.89,1932.7945
+12952,0.6102991,1,0,Others,Nurture,Low-cost re-engagement (email / push),2277.8645319271086,8,1,74647.48,3732.374
+12962,0.72216326,1,0,Others,Nurture,Low-cost re-engagement (email / push),658.8938146126867,43,1,18247.78,912.389
+12963,0.4742656,0,0,Others,Low Priority,No immediate action — monitor,62896.12757597029,14,2,66308.97,132617.94
+12965,0.53619903,1,1,Others,Nurture,Low-cost re-engagement (email / push),2208.3268711986843,19,1,82369.67,4118.4835
+12968,0.77994615,1,1,Others,Nurture,Low-cost re-engagement (email / push),567.2801819778979,42,1,14546.65,727.3325
+12974,0.7407922,1,1,Others,Nurture,Low-cost re-engagement (email / push),494.8103079421819,127,1,13358.95,667.9475000000001
+12976,0.67279667,1,1,Others,Nurture,Low-cost re-engagement (email / push),2658.562756124139,141,1,79030.2,3951.51
+12977,0.68767214,1,1,Others,Nurture,Low-cost re-engagement (email / push),70.78484387493134,86,1,2058.68,102.934
+12981,0.70272714,1,0,Others,Nurture,Low-cost re-engagement (email / push),703.7200924435259,63,1,20028.260000000002,1001.4130000000001
+12982,0.6918798,1,1,Others,Nurture,Low-cost re-engagement (email / push),1445.606062043488,172,1,41787.78,2089.389
+12987,0.6013746,1,1,Others,Nurture,Low-cost re-engagement (email / push),65473.15898656845,3,2,54436.25,108872.5
+12991,0.70055795,1,0,Others,Nurture,Low-cost re-engagement (email / push),1137.7383318514826,42,1,32480.920000000002,1624.0460000000003
+12994,0.54176456,1,0,Others,Nurture,Low-cost re-engagement (email / push),74834.25253180145,50,2,69065.29,138130.58
+12995,0.6866713,1,1,Others,Nurture,Low-cost re-engagement (email / push),776.3244970647096,15,1,22611.239999999998,1130.562
+13023,0.66052294,1,0,Others,Nurture,Low-cost re-engagement (email / push),1029.7486547613144,59,1,31179.8,1558.99
+13026,0.49195132,0,0,Others,Low Priority,No immediate action — monitor,46831.67946626902,22,2,47597.880000000005,95195.76000000001
+13029,0.57190794,1,0,Others,Nurture,Low-cost re-engagement (email / push),57987.57589123249,68,2,50696.6,101393.2
+13032,0.5451476,1,0,Others,Nurture,Low-cost re-engagement (email / push),1447.4786273893715,17,1,53104.1,2655.205
+13035,0.5220427,1,1,Others,Nurture,Low-cost re-engagement (email / push),102989.79335912228,3,2,98641.16,197282.32
+13045,0.71587586,1,1,Others,Nurture,Low-cost re-engagement (email / push),1169.202823173523,29,1,32664.96,1633.248
+13052,0.7230771,1,1,Others,Nurture,Low-cost re-engagement (email / push),1346.8052484185996,142,1,37252.05,1862.6025000000002
+13058,0.68340176,1,0,Others,Nurture,Low-cost re-engagement (email / push),173.8522831057012,81,1,5087.849999999999,254.39249999999998
+13061,0.7424766,1,1,Others,Nurture,Low-cost re-engagement (email / push),987.5410020241143,2,1,26601.27,1330.0635000000002
+13062,0.70389354,1,1,Others,Nurture,Low-cost re-engagement (email / push),1022.4229675143957,121,1,29050.5,1452.525
+13067,0.6964273,1,1,Others,Nurture,Low-cost re-engagement (email / push),430.19079505926373,12,1,12354.22,617.711
+13070,0.71334237,1,1,Others,Nurture,Low-cost re-engagement (email / push),873.1881265592575,122,1,24481.6,1224.08
+13075,0.6766545,1,1,Others,Nurture,Low-cost re-engagement (email / push),3329.0816962251965,59,1,98398.27,4919.913500000001
+13080,0.76335466,1,1,Others,Nurture,Low-cost re-engagement (email / push),237.1956665067673,109,1,6214.56,310.72800000000007
+13083,0.6981259,1,0,Others,Nurture,Low-cost re-engagement (email / push),655.2637611529829,5,1,18772.08,938.6040000000002
+13085,0.60329956,1,1,Others,Nurture,Low-cost re-engagement (email / push),53718.468354310986,87,2,44520.56,89041.12
+13101,0.6944697,1,1,Others,Nurture,Low-cost re-engagement (email / push),375.96262560617924,164,1,10827.33,541.3665
+13106,0.9006737,1,1,Others,Nurture,Low-cost re-engagement (email / push),368.62322343438865,63,1,8185.5,409.27500000000003
+13109,0.6937068,1,0,Others,Nurture,Low-cost re-engagement (email / push),1372.6359316186606,87,1,39573.95,1978.6975
+13115,0.5777336,1,0,Others,Nurture,Low-cost re-engagement (email / push),2592.0074673956633,114,1,89730.2,4486.51
+13116,0.66722745,1,1,Others,Nurture,Low-cost re-engagement (email / push),1675.0304687646628,68,1,50208.68,2510.434
+13120,0.87967545,1,1,Others,Nurture,Low-cost re-engagement (email / push),144.0116675823927,168,1,3274.2,163.71
+13122,0.4975249,0,1,Others,Low Priority,No immediate action — monitor,98207.16389509737,24,2,98695.73,197391.46
+13127,0.55042315,1,1,Others,Nurture,Low-cost re-engagement (email / push),763.1944411275388,7,1,27731.19,1386.5595
+13130,0.7285409,1,1,Others,Nurture,Low-cost re-engagement (email / push),249.45240325927736,24,1,6848.0,342.40000000000003
+13131,0.54745466,1,0,Others,Nurture,Low-cost re-engagement (email / push),90467.31973063946,1,2,82625.4,165250.8
+13145,0.6510619,1,0,Others,Nurture,Low-cost re-engagement (email / push),28523.07359579086,21,2,21905.039999999997,43810.079999999994
+13147,0.8540668,1,0,Others,Nurture,Low-cost re-engagement (email / push),542.8277698481082,29,1,12711.599999999999,635.5799999999999
+13159,0.41553292,0,0,Others,Low Priority,No immediate action — monitor,37485.48620884806,36,2,90210.63,90210.63
+13167,0.5462497,1,0,Others,Nurture,Low-cost re-engagement (email / push),43928.88640784859,60,2,40209.53,80419.06
+13186,0.43959773,0,0,Others,Loyalty,Loyalty rewards & upsell campaign,122478.59072841168,23,2,139307.58,278615.16000000003
+13189,0.6825518,1,0,Others,Nurture,Low-cost re-engagement (email / push),463.7598213285208,45,1,13589.0,679.45
+13192,0.4274383,0,1,Others,Low Priority,No immediate action — monitor,83416.78766569018,25,2,97577.58,195155.15999999997
+13194,0.7180831,1,1,Others,Nurture,Low-cost re-engagement (email / push),233.19389099329712,65,1,6494.9,324.745
+13196,0.4083889,0,0,Others,Loyalty,Loyalty rewards & upsell campaign,132237.71844736338,14,2,161901.7,323803.4
+13200,0.5601264,1,0,Others,Nurture,Low-cost re-engagement (email / push),75157.84196798087,4,2,67090.06999999999,134180.14
+13203,0.43333292,0,0,Others,Low Priority,No immediate action — monitor,25029.630129861835,50,2,28880.37,57760.740000000005
+13207,0.72254807,1,0,Others,Nurture,Low-cost re-engagement (email / push),763.5396645390987,80,1,21134.64,1056.732
+13210,0.7012824,1,1,Others,Nurture,Low-cost re-engagement (email / push),1326.2077357046605,23,1,37822.36,1891.1180000000002
+13211,0.4870216,0,0,Others,Low Priority,No immediate action — monitor,81777.23764060972,25,2,83956.48,167912.95999999996
+13218,0.7706813,1,1,Others,Nurture,Low-cost re-engagement (email / push),258.2738072268963,57,1,6702.48,335.124
+13224,0.59763217,1,0,Others,Nurture,Low-cost re-engagement (email / push),3697.970369494677,81,1,123754.06,6187.703
+13227,0.7111742,1,1,Others,Nurture,Low-cost re-engagement (email / push),980.4922999432684,131,1,27573.9,1378.6950000000002
+13228,0.76898444,1,1,Others,Nurture,Low-cost re-engagement (email / push),1472.8358921647073,11,1,38306.0,1915.3000000000002
+13229,0.6971389,1,1,Others,Nurture,Low-cost re-engagement (email / push),600.2941116169095,155,1,17221.649999999998,861.0825
+13233,0.5647576,1,1,Others,Nurture,Low-cost re-engagement (email / push),73133.66757278443,4,2,64747.840000000004,129495.68
+13235,0.614775,1,1,Others,Nurture,Low-cost re-engagement (email / push),3279.738259796709,142,1,106697.19,5334.8595000000005
+13236,0.6631457,1,0,Others,Nurture,Low-cost re-engagement (email / push),1445.137433871895,36,1,43584.31,2179.2155
+13238,0.6246228,1,0,Others,Nurture,Low-cost re-engagement (email / push),42620.451160955425,93,2,34116.95,68233.9
+13243,0.6078136,1,1,Others,Nurture,Low-cost re-engagement (email / push),1902.6948206806185,133,1,62607.840000000004,3130.3920000000003
+13244,0.65836084,1,1,Others,Nurture,Low-cost re-engagement (email / push),428.7963396166564,22,1,13026.18,651.3090000000001
+13247,0.69650817,1,0,Others,Nurture,Low-cost re-engagement (email / push),1136.7880473593473,12,1,32642.489999999998,1632.1245
+13248,0.6189306,1,1,Others,Nurture,Low-cost re-engagement (email / push),61679.84861759186,54,2,49827.76,99655.52
+13253,0.52323633,1,1,Others,Nurture,Low-cost re-engagement (email / push),85385.80720783233,86,2,81593.92,163187.84
+13258,0.6745309,1,0,Others,Nurture,Low-cost re-engagement (email / push),717.6702113049924,135,1,21279.09,1063.9545
+13272,0.78053576,1,0,Others,Nurture,Low-cost re-engagement (email / push),588.6301140494346,19,1,15082.72,754.136
+13273,0.66142946,1,1,Others,Nurture,Low-cost re-engagement (email / push),491.80124855846174,43,1,14870.86,743.5430000000001
+13276,0.7866715,1,0,Others,Nurture,Low-cost re-engagement (email / push),578.1901932545901,29,1,14699.66,734.9830000000001
+13277,0.62900364,1,0,Others,Nurture,Low-cost re-engagement (email / push),16946.9935785532,46,2,13471.3,26942.6
+13279,0.77764827,1,1,Others,Nurture,Low-cost re-engagement (email / push),573.0976132757962,8,1,14739.25,736.9625000000001
+13282,0.46083215,0,0,Others,Low Priority,No immediate action — monitor,76241.63752518297,92,2,82721.7,165443.40000000002
+13283,0.71791124,1,0,Others,Nurture,Low-cost re-engagement (email / push),97.94104138612748,115,1,2728.5,136.425
+13291,0.6220931,1,1,Others,Nurture,Low-cost re-engagement (email / push),1201.845574683845,85,1,38638.77,1931.9385
+13296,0.806314,1,1,Others,Nurture,Low-cost re-engagement (email / push),377.0243593072891,67,1,9351.8,467.59
+13300,0.65506697,1,1,Others,Nurture,Low-cost re-engagement (email / push),1303.3287708342077,99,1,39792.23,1989.6115000000002
+13302,0.881628,1,1,Others,Nurture,Low-cost re-engagement (email / push),300.690241869539,85,1,6821.25,341.0625
+13307,0.88768244,1,1,Others,Nurture,Low-cost re-engagement (email / push),71.23651564121246,50,1,1605.0,80.25
+13308,0.6740168,1,0,Others,Nurture,Low-cost re-engagement (email / push),2720.6110786087816,133,1,80728.29000000001,4036.4145000000008
+13311,0.64323205,1,0,Others,Nurture,Low-cost re-engagement (email / push),1628.2814645801784,80,1,50628.12,2531.4060000000004
+13314,0.5637484,1,0,Others,Nurture,Low-cost re-engagement (email / push),1506.880921050489,3,1,53459.34,2672.967
+13321,0.762199,1,1,Others,Nurture,Low-cost re-engagement (email / push),27350.38250869751,2,2,35883.52,35883.52
+13323,0.7370015,1,0,Others,Nurture,Low-cost re-engagement (email / push),474.3378366807103,14,1,12872.099999999999,643.605
+13325,0.7067107,1,1,Others,Nurture,Low-cost re-engagement (email / push),2553.243272393346,11,1,72257.1,3612.8550000000005
+13336,0.58703154,1,1,Others,Nurture,Low-cost re-engagement (email / push),2497.16878559947,7,1,85077.84,4253.892
+13338,0.72155124,1,1,Others,Nurture,Low-cost re-engagement (email / push),1629.123439380348,87,1,45156.14,2257.8070000000002
+13339,0.58703154,1,1,Others,Nurture,Low-cost re-engagement (email / push),2594.842028923929,130,1,88405.54,4420.277
+13343,0.72373945,1,1,Others,Nurture,Low-cost re-engagement (email / push),1174.8827902505695,107,1,32467.01,1623.3505
+13350,0.6557363,1,0,Others,Nurture,Low-cost re-engagement (email / push),1917.6464626973866,9,1,58488.34,2924.417
+13354,0.58871293,1,1,Others,Nurture,Low-cost re-engagement (email / push),2341.8326306117774,1,1,79557.71,3977.8855000000003
+13355,0.63004184,1,1,Others,Nurture,Low-cost re-engagement (email / push),2274.2273692166805,52,1,72192.9,3609.645
+13356,0.5953094,1,1,Others,Nurture,Low-cost re-engagement (email / push),2392.7874017388226,10,1,80388.03,4019.4015
+13364,0.7972016,1,1,Others,Nurture,Low-cost re-engagement (email / push),575.6082355754376,1,1,14440.720000000001,722.0360000000001
+13365,0.61495596,1,0,Others,Nurture,Low-cost re-engagement (email / push),2081.9211092305186,147,1,67709.6,3385.4800000000005
+13372,0.7199024,1,1,Others,Nurture,Low-cost re-engagement (email / push),1265.7496706600189,19,1,35164.479999999996,1758.224
+13373,0.41344965,0,0,Others,Loyalty,Loyalty rewards & upsell campaign,181874.06777024746,88,2,219947.06,439894.12
+13375,0.61241764,1,1,Others,Nurture,Low-cost re-engagement (email / push),2551.195618240982,18,1,83315.55,4165.7775
+13379,0.72380257,1,0,Others,Nurture,Low-cost re-engagement (email / push),527.7617270879745,66,1,14583.029999999999,729.1514999999999
+13388,0.6346733,1,1,Others,Nurture,Low-cost re-engagement (email / push),42589.7833560437,61,2,67105.05,67105.05
+13389,0.5076366,1,0,Others,Nurture,Low-cost re-engagement (email / push),63024.15075784326,4,2,62076.05,124152.1
+13390,0.6855418,1,1,Others,Nurture,Low-cost re-engagement (email / push),1995.49429165864,4,1,58216.56,2910.828
+13391,0.881628,1,1,Others,Nurture,Low-cost re-engagement (email / push),282.0592386478186,133,1,6398.599999999999,319.93
+13395,0.6469283,1,1,Others,Nurture,Low-cost re-engagement (email / push),954.6313511652946,115,1,29512.739999999998,1475.637
+13398,0.6843508,1,1,Others,Nurture,Low-cost re-engagement (email / push),1674.4482946556209,122,1,48935.38,2446.769
+13402,0.5865471,1,1,Others,Nurture,Low-cost re-engagement (email / push),77977.45705836653,57,2,66471.61,132943.22
+13404,0.7142817,1,0,Others,Nurture,Low-cost re-engagement (email / push),832.3406539584994,142,1,23305.67,1165.2835
+13411,0.6497969,1,1,Others,Nurture,Low-cost re-engagement (email / push),742.3880883531273,37,1,22849.85,1142.4925
+13414,0.6406766,1,1,Others,Nurture,Low-cost re-engagement (email / push),38972.03831166029,63,2,60829.5,60829.5
+13416,0.6801918,1,0,Others,Nurture,Low-cost re-engagement (email / push),1000.7322076708078,11,1,29425.0,1471.25
+13417,0.7367561,1,0,Others,Nurture,Low-cost re-engagement (email / push),930.2282346248628,135,1,25252.0,1262.6000000000001
+13420,0.77045023,1,1,Others,Nurture,Low-cost re-engagement (email / push),26355.48457378149,79,2,17103.95,34207.9
+13427,0.50468147,1,0,Others,Nurture,Low-cost re-engagement (email / push),50205.73262488843,50,2,49740.02,99480.04000000001
+13429,0.6855725,1,0,Others,Nurture,Low-cost re-engagement (email / push),1212.5789453136922,5,1,35374.200000000004,1768.7100000000003
+13430,0.6923774,1,0,Others,Nurture,Low-cost re-engagement (email / push),1245.7659014256299,16,1,35985.17,1799.2585
+13431,0.61083037,1,0,Others,Nurture,Low-cost re-engagement (email / push),2789.7771204235555,18,1,91343.76,4567.188
+13434,0.7065246,1,1,Others,Nurture,Low-cost re-engagement (email / push),40387.54674785615,4,2,57163.68000000001,57163.68000000001
+13441,0.7071216,1,1,Others,Nurture,Low-cost re-engagement (email / push),1122.2189670066834,21,1,31740.48,1587.0240000000001
+13461,0.5718501,1,0,Others,Nurture,Low-cost re-engagement (email / push),108204.79367949962,68,2,94609.4,189218.8
+13466,0.70588267,1,1,Others,Nurture,Low-cost re-engagement (email / push),1162.77581391871,114,1,32945.3,1647.2650000000003
+13470,0.6250016,1,1,Others,Nurture,Low-cost re-engagement (email / push),22068.806825280186,29,2,17654.999999999996,35309.99999999999
+13474,0.60684425,1,1,Others,Nurture,Low-cost re-engagement (email / push),736.4625363503695,166,1,24271.88,1213.594
+13482,0.74007344,1,1,Others,Nurture,Low-cost re-engagement (email / push),731.0623082237245,162,1,19756.48,987.8240000000001
+13484,0.79576063,1,1,Others,Nurture,Low-cost re-engagement (email / push),1335.9468210840225,171,1,33576.6,1678.83
+13485,0.67297417,1,1,Others,Nurture,Low-cost re-engagement (email / push),1635.4510585350993,163,1,48603.68,2430.184
+13500,0.6752336,1,0,Others,Nurture,Low-cost re-engagement (email / push),1179.119926071167,52,1,34924.799999999996,1746.2399999999998
+13503,0.6497969,1,1,Others,Nurture,Low-cost re-engagement (email / push),753.8602526779473,1,1,23202.95,1160.1475
+13508,0.62829036,1,1,Others,Nurture,Low-cost re-engagement (email / push),373.00938683679703,173,1,11873.79,593.6895000000001
+13510,0.44715002,0,0,Others,Low Priority,No immediate action — monitor,85911.53286782205,25,2,96065.67,192131.34
+13513,0.74306196,1,1,Others,Nurture,Low-cost re-engagement (email / push),815.3507424971461,56,1,21945.7,1097.285
+13514,0.7584037,1,1,Others,Nurture,Low-cost re-engagement (email / push),617.5453958398105,3,1,16285.400000000001,814.2700000000001
+13516,0.59476244,1,0,Others,Nurture,Low-cost re-engagement (email / push),78965.2655926299,2,2,66383.87,132767.74
+13517,0.37493992,0,0,Others,Loyalty,Loyalty rewards & upsell campaign,129356.71649700166,36,2,172503.26,345006.52
+13518,0.62179,1,1,Others,Nurture,Low-cost re-engagement (email / push),2086.2956904131174,15,1,67106.12,3355.306
+13519,0.73535687,1,1,Others,Nurture,Low-cost re-engagement (email / push),482.91804672554144,8,1,13134.25,656.7125000000001
+13529,0.5344579,1,1,Others,Nurture,Low-cost re-engagement (email / push),23567.905472364422,8,2,22048.42,44096.84
+13536,0.6843508,1,0,Others,Nurture,Low-cost re-engagement (email / push),1666.5033241754475,5,1,48703.19,2435.1595
+13544,0.57670057,1,0,Others,Nurture,Low-cost re-engagement (email / push),348.67518198519946,170,1,12092.07,604.6035
+13546,0.69025,1,0,Others,Nurture,Low-cost re-engagement (email / push),673.0565427567362,130,1,19501.82,975.091
+13548,0.47324723,0,1,Others,Low Priority,No immediate action — monitor,68680.59108799935,26,2,72563.12,145126.24
+13561,0.72825706,1,1,Others,Nurture,Low-cost re-engagement (email / push),552.7114239827395,145,1,15179.019999999999,758.951
+13563,0.5318768,1,1,Others,Nurture,Low-cost re-engagement (email / push),60044.327493014345,14,2,56445.71,112891.42000000001
+13566,0.5153406,1,0,Others,Nurture,Low-cost re-engagement (email / push),1564.1147150956692,12,1,60702.17,3035.1085000000003
+13568,0.54108167,1,1,Others,Nurture,Low-cost re-engagement (email / push),541.4698930424452,103,1,20014.35,1000.7175
+13570,0.63074833,1,1,Others,Nurture,Low-cost re-engagement (email / push),808.1598608834446,173,1,25625.43,1281.2715
+13572,0.6493755,1,1,Others,Nurture,Low-cost re-engagement (email / push),4809.1044793032115,135,1,148114.75,7405.7375
+13575,0.6082387,1,0,Others,Nurture,Low-cost re-engagement (email / push),28473.17400574684,63,2,23406.25,46812.5
+13583,0.5835273,1,1,Others,Nurture,Low-cost re-engagement (email / push),2438.275061167598,85,1,83570.21,4178.5105
+13589,0.7945187,1,0,Others,Nurture,Low-cost re-engagement (email / push),624.8492388367653,109,1,15728.999999999998,786.4499999999999
+13601,0.6220931,1,0,Others,Nurture,Low-cost re-engagement (email / push),1242.0834883332254,141,1,39932.4,1996.6200000000001
+13617,0.5779481,1,0,Others,Nurture,Low-cost re-engagement (email / push),45230.102200984955,43,2,39129.9,78259.8
+13618,0.6981259,1,1,Others,Nurture,Low-cost re-engagement (email / push),662.3602109146715,103,1,18975.38,948.7690000000001
+13621,0.5886254,1,1,Others,Nurture,Low-cost re-engagement (email / push),673.4448159195483,46,1,22881.95,1144.0975
+13639,0.60747606,1,1,Others,Nurture,Low-cost re-engagement (email / push),2586.1525312789086,4,1,85144.18000000001,4257.209000000001
+13642,0.6583584,1,1,Others,Nurture,Low-cost re-engagement (email / push),984.037101062715,145,1,29893.66,1494.683
+13643,0.5065095,1,0,Others,Nurture,Low-cost re-engagement (email / push),28117.151808762548,28,2,27755.8,55511.6
+13644,0.43254045,0,0,Others,Loyalty,Loyalty rewards & upsell campaign,126322.54637280286,3,2,146023.97,292047.94
+13645,0.7094849,1,1,Others,Nurture,Low-cost re-engagement (email / push),956.9070831558107,50,1,26974.699999999997,1348.735
+13655,0.44516495,0,1,Others,Low Priority,No immediate action — monitor,88879.6660287398,44,2,99827.79,199655.58
+13656,0.51252186,1,1,Others,Nurture,Low-cost re-engagement (email / push),41639.8900102973,94,2,40622.55,81245.1
+13657,0.7945187,1,0,Others,Nurture,Low-cost re-engagement (email / push),647.547843839407,131,1,16300.380000000001,815.0190000000001
+13663,0.65157723,1,1,Others,Nurture,Low-cost re-engagement (email / push),660.4807113858462,109,1,20273.29,1013.6645000000001
+13667,0.6082825,1,1,Others,Nurture,Low-cost re-engagement (email / push),973.2018270386756,79,1,31998.35,1599.9175
+13669,0.68340176,1,0,Others,Nurture,Low-cost re-engagement (email / push),176.046002766341,79,1,5152.05,257.6025
+13670,0.70244324,1,1,Others,Nurture,Low-cost re-engagement (email / push),1314.197549378276,5,1,37417.9,1870.8950000000002
+13675,0.54107744,1,1,Others,Nurture,Low-cost re-engagement (email / push),56369.165819766524,81,2,52089.740000000005,104179.48000000001
+13678,0.5820396,1,1,Others,Nurture,Low-cost re-engagement (email / push),670.4874955325128,81,1,23039.24,1151.9620000000002
+13681,0.64861554,1,0,Others,Nurture,Low-cost re-engagement (email / push),706.0251490529181,85,1,21770.22,1088.5110000000002
+13682,0.7180831,1,1,Others,Nurture,Low-cost re-engagement (email / push),228.58379759639504,117,1,6366.5,318.32500000000005
+13686,0.74225384,1,1,Others,Nurture,Low-cost re-engagement (email / push),285.91617915630343,112,1,7704.0,385.20000000000005
+13699,0.69650817,1,1,Others,Nurture,Low-cost re-engagement (email / push),1149.867426014185,85,1,33018.06,1650.903
+13705,0.45119837,0,0,Others,Low Priority,No immediate action — monitor,34536.311401772495,74,2,38271.76,76543.51999999999
+13712,0.73401004,1,1,Others,Nurture,Low-cost re-engagement (email / push),898.6440888422728,176,1,24485.88,1224.294
+13723,0.73807645,1,1,Others,Nurture,Low-cost re-engagement (email / push),789.1494934815169,147,1,21383.949999999997,1069.1975
+13726,0.69239885,1,0,Others,Nurture,Low-cost re-engagement (email / push),1084.184424456954,30,1,31316.76,1565.838
+13730,0.5438909,1,1,Others,Nurture,Low-cost re-engagement (email / push),43798.55464667082,65,2,80528.2,80528.2
+13737,0.6923774,1,1,Others,Nurture,Low-cost re-engagement (email / push),1257.9527820289134,130,1,36337.2,1816.86
+13740,0.69142467,1,1,Others,Nurture,Low-cost re-engagement (email / push),1297.4670320011676,170,1,37530.25,1876.5125
+13744,0.53780204,1,1,Others,Nurture,Low-cost re-engagement (email / push),119550.51100131513,25,2,111147.32,222294.64
+13745,0.7017205,1,1,Others,Nurture,Low-cost re-engagement (email / push),1126.411532403469,92,1,32104.28,1605.214
+13754,0.7431893,1,1,Others,Nurture,Low-cost re-engagement (email / push),44945.411886620524,81,2,30238.2,60476.4
+13759,0.67243963,1,0,Others,Nurture,Low-cost re-engagement (email / push),2016.1041421996058,1,1,59963.87,2998.1935000000003
+13761,0.59362364,1,0,Others,Nurture,Low-cost re-engagement (email / push),1561.6151332719328,109,1,52612.97,2630.6485000000002
+13762,0.78253347,1,1,Others,Nurture,Low-cost re-engagement (email / push),1284.0998574385644,148,1,32819.04,1640.9520000000002
+13764,0.3856059,0,0,Others,Low Priority,No immediate action — monitor,77839.9728326565,74,2,100932.03,201864.06
+13772,0.4196068,0,0,Others,Low Priority,No immediate action — monitor,59805.83617124081,26,2,71264.14,142528.28
+13774,0.696524,1,1,Others,Nurture,Low-cost re-engagement (email / push),1285.6092173159122,11,1,36915.0,1845.75
+13778,0.7656631,1,1,Others,Nurture,Low-cost re-engagement (email / push),732.0083663627506,33,1,19120.9,956.0450000000001
+13780,0.68767214,1,0,Others,Nurture,Low-cost re-engagement (email / push),112.1373202342987,100,1,3261.3599999999997,163.06799999999998
+13787,0.50054014,1,1,Others,Nurture,Low-cost re-engagement (email / push),33103.00174207687,5,2,33067.28,66134.56
+13791,0.71037716,1,1,Others,High Priority,Immediate retention offer (discount / VIP upgrade),186377.39234948158,57,2,131182.0,262364.0
+13799,0.5965849,1,1,Others,Nurture,Low-cost re-engagement (email / push),87946.18585737706,46,2,73708.02,147416.04
+13805,0.7342332,1,0,Others,Nurture,Low-cost re-engagement (email / push),1584.1433733804229,59,1,43150.96,2157.5480000000002
+13808,0.6111051,1,0,Others,Nurture,Low-cost re-engagement (email / push),47282.239260160924,23,2,77371.7,77371.7
+13812,0.5568872,1,0,Others,Nurture,Low-cost re-engagement (email / push),776.834824758947,35,1,27899.18,1394.959
+13813,0.5774651,1,0,Others,Nurture,Low-cost re-engagement (email / push),70362.57689721823,19,2,60923.659999999996,121847.31999999999
+13814,0.530394,1,1,Others,High Priority,Immediate retention offer (discount / VIP upgrade),167693.55213974713,22,2,158083.94,316167.88
+13821,0.55077434,1,1,Others,Nurture,Low-cost re-engagement (email / push),45453.731584644316,74,2,41263.48,82526.95999999999
+13823,0.6801426,1,0,Others,Nurture,Low-cost re-engagement (email / push),2366.724107417643,21,1,69594.94,3479.7470000000003
+13826,0.7455398,1,1,Others,Nurture,Low-cost re-engagement (email / push),755.8468719512224,106,1,20276.5,1013.825
+13827,0.53779775,1,0,Others,Nurture,Low-cost re-engagement (email / push),15356.28768211484,63,2,28554.02,28554.02
+13833,0.6918798,1,1,Others,Nurture,Low-cost re-engagement (email / push),1420.8426458631454,89,1,41071.95,2053.5975
+13835,0.594104,1,0,Others,Nurture,Low-cost re-engagement (email / push),66161.47614729762,85,2,55681.73,111363.46
+13849,0.6093961,1,0,Others,Nurture,Low-cost re-engagement (email / push),1935.2305532938244,100,1,63513.06,3175.6530000000002
+13850,0.5495527,1,1,Others,Nurture,Low-cost re-engagement (email / push),4690.8816498847,59,1,170716.36,8535.818
+13860,0.70129323,1,0,Others,Nurture,Low-cost re-engagement (email / push),1522.8287947525978,16,1,43429.159999999996,2171.458
+13866,0.80303067,1,1,Others,Nurture,Low-cost re-engagement (email / push),625.8295054468811,4,1,15586.69,779.3345
+13867,0.51903605,1,0,Others,Nurture,Low-cost re-engagement (email / push),64715.98970775604,4,2,62342.479999999996,124684.95999999999
+13877,0.73979765,1,1,Others,Nurture,Low-cost re-engagement (email / push),464.02624030888086,16,1,12544.68,627.234
+13886,0.567594,1,1,Others,Nurture,Low-cost re-engagement (email / push),739.6010805822611,1,1,26060.92,1303.046
+13887,0.65506697,1,1,Others,Nurture,Low-cost re-engagement (email / push),1225.0358220040798,134,1,37401.85,1870.0925
+13888,0.60858446,1,1,Others,Nurture,Low-cost re-engagement (email / push),77578.31859011293,49,2,63736.69,127473.38
+13889,0.66513383,1,1,Others,Nurture,Low-cost re-engagement (email / push),1483.5244801050428,22,1,44608.3,2230.4150000000004
+13890,0.4699496,0,0,Others,Low Priority,No immediate action — monitor,50396.239358356004,37,2,53618.77,107237.54000000001
+13892,0.7180831,1,0,Others,Nurture,Low-cost re-engagement (email / push),209.45190999925137,176,1,5833.64,291.682
+13895,0.46642008,0,0,Others,Low Priority,No immediate action — monitor,93555.56662065387,73,2,100291.09999999999,200582.2
+13917,0.7706813,1,0,Others,Nurture,Low-cost re-engagement (email / push),269.57122472053766,121,1,6995.66,349.783
+13919,0.6930729,1,0,Others,Nurture,Low-cost re-engagement (email / push),660.7549250471593,51,1,19067.4,953.3700000000001
+13924,0.6128749,1,0,Others,Nurture,Low-cost re-engagement (email / push),2170.881432824135,2,1,70842.56,3542.128
+13927,0.7074099,1,1,Others,Nurture,Low-cost re-engagement (email / push),1320.8025825386346,4,1,37341.93,1867.0965
+13928,0.5848292,1,0,Others,Nurture,Low-cost re-engagement (email / push),28215.84557400942,36,2,24123.15,48246.3
+13930,0.7364918,1,0,Others,Nurture,Low-cost re-engagement (email / push),827.4485365748405,66,1,22470.0,1123.5
+13931,0.48797247,0,1,Others,Loyalty,Loyalty rewards & upsell campaign,129230.44165782275,25,2,132415.71,264831.42000000004
+13933,0.612733,1,1,Others,Nurture,Low-cost re-engagement (email / push),79827.5055808568,39,2,65140.53,130281.06
+13936,0.70244324,1,1,Others,Nurture,Low-cost re-engagement (email / push),1415.2145071343184,109,1,40294.06,2014.703
+13937,0.7802435,1,1,Others,Nurture,Low-cost re-engagement (email / push),663.0880014368893,99,1,16996.95,849.8475000000001
+13939,0.54254365,1,0,Others,Nurture,Low-cost re-engagement (email / push),45305.07491336346,38,2,41752.47,83504.94
+13940,0.56818503,1,0,Others,Nurture,Low-cost re-engagement (email / push),47549.60981434106,46,2,41843.42,83686.84
+13949,0.39317313,0,0,Others,Low Priority,No immediate action — monitor,38252.13606073916,7,2,97290.82,97290.82
+13950,0.6280266,1,0,Others,Nurture,Low-cost re-engagement (email / push),29830.912026090624,3,2,23749.719999999998,47499.44
+13953,0.7224546,1,0,Others,Nurture,Low-cost re-engagement (email / push),403.36519117963314,45,1,11166.52,558.326
+13955,0.59409994,1,1,Others,Nurture,Low-cost re-engagement (email / push),41060.29047905922,84,2,34556.72,69113.44
+13960,0.6875507,1,0,Others,Nurture,Low-cost re-engagement (email / push),471.2025751259923,1,1,13706.7,685.335
+13962,0.73847157,1,0,Others,Nurture,Low-cost re-engagement (email / push),377.8962091247737,175,1,10234.55,511.72749999999996
+13967,0.7562618,1,1,Others,Nurture,Low-cost re-engagement (email / push),326.5122618770599,75,1,8634.9,431.745
+13972,0.7945187,1,0,Others,Nurture,Low-cost re-engagement (email / push),620.1734962332249,131,1,15611.300000000001,780.565
+13976,0.7978372,1,1,Others,Nurture,Low-cost re-engagement (email / push),1528.0122163290382,136,1,38303.86,1915.1930000000002
+13979,0.58370155,1,1,Others,Nurture,Low-cost re-engagement (email / push),2716.432904517144,3,1,93076.09,4653.8045
+13989,0.68626523,1,0,Others,Nurture,Low-cost re-engagement (email / push),2662.9894324404,169,1,77608.17,3880.4085
+13990,0.6745516,1,1,Others,Nurture,Low-cost re-engagement (email / push),1123.4353452676535,143,1,33309.1,1665.455
+13991,0.543157,1,0,Others,Nurture,Low-cost re-engagement (email / push),39194.642308330534,5,2,36080.4,72160.8
+14000,0.6462413,1,1,Others,Nurture,Low-cost re-engagement (email / push),1729.7327142149213,141,1,53532.100000000006,2676.6050000000005
+14002,0.5725182,1,1,Others,Nurture,Low-cost re-engagement (email / push),31412.621055514817,64,2,54867.46,54867.46000000001
+14014,0.56642336,1,1,Others,Nurture,Low-cost re-engagement (email / push),1530.8797692055107,7,1,54054.26,2702.713
+14019,0.49784413,0,0,Others,Low Priority,No immediate action — monitor,85287.38050309836,28,2,85656.71,171313.41999999998
+14020,0.71998423,1,0,Others,Nurture,Low-cost re-engagement (email / push),1275.523347870648,18,1,35431.979999999996,1771.599
+14022,0.67451084,1,1,Others,Nurture,Low-cost re-engagement (email / push),1587.7985093593597,155,1,47080.0,2354.0
+14024,0.61780673,1,1,Others,Nurture,Low-cost re-engagement (email / push),21662.713493126626,51,2,35063.9,35063.899999999994
+14029,0.67161036,1,0,Others,Nurture,Low-cost re-engagement (email / push),593.5826642894746,74,1,17676.4,883.8200000000002
+14034,0.6954516,1,0,Others,Nurture,Low-cost re-engagement (email / push),28731.728160818817,87,2,41313.770000000004,41313.770000000004
+14045,0.5975119,1,1,Others,High Priority,Immediate retention offer (discount / VIP upgrade),139477.91692514418,39,2,116715.6,233431.19999999998
+14050,0.5794694,1,0,Others,Nurture,Low-cost re-engagement (email / push),1506.6163388978841,36,1,51999.86,2599.9930000000004
+14053,0.6196528,1,1,Others,Nurture,Low-cost re-engagement (email / push),34510.63364633918,54,2,27846.75,55693.5
+14055,0.75834435,1,1,Others,Nurture,Low-cost re-engagement (email / push),2944.0247273336654,36,1,77643.48000000001,3882.174000000001
+14067,0.6305099,1,0,Others,Nurture,Low-cost re-engagement (email / push),693.9404712320567,26,1,22012.04,1100.602
+14076,0.56341,1,1,Others,Nurture,Low-cost re-engagement (email / push),306.6088401736021,59,1,10884.039999999999,544.202
+14079,0.75402206,1,1,Others,Nurture,Low-cost re-engagement (email / push),1384.4749881577493,54,1,36722.4,1836.1200000000001
+14100,0.633538,1,1,Others,Nurture,Low-cost re-engagement (email / push),650.6007701295615,67,1,20538.65,1026.9325000000001
+14104,0.7521469,1,1,Others,Nurture,Low-cost re-engagement (email / push),311.29555026030545,95,1,8277.52,413.87600000000003
+14105,0.5394692,1,1,Others,Nurture,Low-cost re-engagement (email / push),3654.5425367608964,169,1,135486.61,6774.3305
+14108,0.6481155,1,0,Others,Nurture,Low-cost re-engagement (email / push),1010.1628885744213,31,1,31172.309999999998,1558.6154999999999
+14109,0.7855442,1,1,Others,Nurture,Low-cost re-engagement (email / push),606.0237968057395,2,1,15429.400000000001,771.4700000000001
+14113,0.53832614,1,0,Others,Nurture,Low-cost re-engagement (email / push),106720.63872495174,8,2,99122.66,198245.32
+14116,0.58551043,1,0,Others,Nurture,Low-cost re-engagement (email / push),78796.92840649486,22,2,67289.09,134578.18
+14117,0.75541794,1,1,Others,Nurture,Low-cost re-engagement (email / push),363.73373955488205,73,1,9630.0,481.5
+14124,0.6969849,1,1,Others,Nurture,Low-cost re-engagement (email / push),440.3048687725068,14,1,12634.560000000001,631.7280000000001
+14125,0.5073081,1,0,Others,Nurture,Low-cost re-engagement (email / push),3423.91664462918,8,1,134983.71,6749.1855
+14141,0.50885636,1,0,Others,Nurture,Low-cost re-engagement (email / push),53283.53977570653,3,2,52356.17,104712.34
+14143,0.78442734,1,1,Others,Nurture,Low-cost re-engagement (email / push),485.9762729233504,63,1,12390.6,619.5300000000001
+14147,0.54785085,1,1,Others,Nurture,Low-cost re-engagement (email / push),56673.85530538559,8,2,51723.8,103447.59999999999
+14148,0.7749201,1,1,Others,Nurture,Low-cost re-engagement (email / push),651.723307492733,163,1,16820.4,841.0200000000001
+14149,0.67451084,1,1,Others,Nurture,Low-cost re-engagement (email / push),1611.6876596592665,150,1,47788.34,2389.417
+14152,0.55387044,1,1,Others,Nurture,Low-cost re-engagement (email / push),73640.4313902998,5,2,66478.03,132956.06
+14164,0.6911985,1,1,Others,Nurture,Low-cost re-engagement (email / push),4710.289525931865,10,1,136293.38999999998,6814.6695
+14171,0.6397468,1,1,Others,Nurture,Low-cost re-engagement (email / push),1245.1241339150072,28,1,38925.53,1946.2765
+14173,0.70580536,1,0,Others,Nurture,Low-cost re-engagement (email / push),366.6175375129879,149,1,10388.63,519.4315
+14196,0.7881574,1,1,Others,Nurture,Low-cost re-engagement (email / push),1414.7677602639199,36,1,35900.64,1795.0320000000002
+14199,0.736419,1,1,Others,Nurture,Low-cost re-engagement (email / push),730.446663814187,148,1,19837.8,991.89
+14206,0.6752336,1,1,Others,Nurture,Low-cost re-engagement (email / push),1185.4779256725312,169,1,35113.12,1755.6560000000002
+14208,0.81294525,1,1,Others,Nurture,Low-cost re-engagement (email / push),659.9562677754164,24,1,16236.18,811.8090000000001
+14212,0.7613552,1,1,Others,Nurture,Low-cost re-engagement (email / push),2764.922394465208,19,1,72631.59999999999,3631.58
+14222,0.60654074,1,1,Others,Nurture,Low-cost re-engagement (email / push),2216.881838105172,107,1,73099.19,3654.9595000000004
+14236,0.47985795,0,1,Others,Low Priority,No immediate action — monitor,50406.21784145951,10,2,52522.02,105044.04
+14240,0.73401004,1,0,Others,Nurture,Low-cost re-engagement (email / push),890.829450943321,155,1,24272.95,1213.6475
+14241,0.7364918,1,1,Others,Nurture,Low-cost re-engagement (email / push),842.027391743064,113,1,22865.9,1143.295
+14250,0.5394692,1,0,Others,Nurture,Low-cost re-engagement (email / push),3546.6001480362115,19,1,131484.81,6574.2405
+14259,0.7370015,1,1,Others,Nurture,Low-cost re-engagement (email / push),473.1549493074417,71,1,12840.0,642.0
+14261,0.55866367,1,0,Others,Nurture,Low-cost re-engagement (email / push),2820.727767366916,8,1,100981.25,5049.0625
+14264,0.49797672,0,1,Others,Low Priority,No immediate action — monitor,35590.187051984074,84,2,35734.79,71469.58
+14265,0.5582719,1,1,Others,Nurture,Low-cost re-engagement (email / push),59290.66260410309,39,2,53101.96,106203.92
+14271,0.7828349,1,1,Others,Nurture,Low-cost re-engagement (email / push),470.4148779201508,155,1,12018.24,600.912
+14272,0.5225562,1,1,Others,Nurture,Low-cost re-engagement (email / push),48975.763319177626,3,2,46861.72,93723.44
+14277,0.54769045,1,0,Others,Nurture,Low-cost re-engagement (email / push),4580.48887009862,142,1,167265.61,8363.280499999999
+14280,0.77764827,1,1,Others,Nurture,Low-cost re-engagement (email / push),557.6624615861177,126,1,14342.279999999999,717.114
+14284,0.6290527,1,0,Others,Nurture,Low-cost re-engagement (email / push),848.4253914627434,16,1,26974.7,1348.7350000000001
+14285,0.5201927,1,0,Others,High Priority,Immediate retention offer (discount / VIP upgrade),137646.479548645,5,2,132303.36,264606.72
+14286,0.6344349,1,0,Others,Nurture,Low-cost re-engagement (email / push),6958.436071653843,172,1,219358.56,10967.928
+14287,0.7180831,1,0,Others,Nurture,Low-cost re-engagement (email / push),253.55513682961467,128,1,7062.0,353.1
+14288,0.65475434,1,1,Others,Nurture,Low-cost re-engagement (email / push),1494.352379205823,143,1,45646.2,2282.31
+14290,0.52429545,1,0,Others,Nurture,Low-cost re-engagement (email / push),115694.23203526736,11,2,110333.05,220666.1
+14301,0.70656663,1,1,Others,Nurture,Low-cost re-engagement (email / push),2174.8608457594514,47,1,61561.38,3078.069
+14304,0.6543642,1,1,Others,Nurture,Low-cost re-engagement (email / push),1286.5618682652712,152,1,39322.5,1966.125
+14306,0.70812446,1,0,Others,Nurture,Low-cost re-engagement (email / push),6178.7605007799275,15,1,174510.58,8725.529
+14311,0.66847664,1,1,Others,Nurture,Low-cost re-engagement (email / push),1109.5983604018093,172,1,33197.82,1659.891
+14314,0.739226,1,1,Others,Nurture,Low-cost re-engagement (email / push),474.58308148384094,36,1,12840.0,642.0
+14323,0.57535064,1,1,Others,Nurture,Low-cost re-engagement (email / push),74498.03514843463,44,2,64741.42,129482.84
+14326,0.76089716,1,1,Others,Nurture,Low-cost re-engagement (email / push),748.4165439164639,172,1,19671.95,983.5975000000001
+14327,0.75079525,1,1,Others,Nurture,Low-cost re-engagement (email / push),1251.8215591421726,93,1,33346.55,1667.3275000000003
+14331,0.572597,1,1,Others,Nurture,Low-cost re-engagement (email / push),56692.39645219803,54,2,49504.62,99009.24
+14332,0.6969849,1,0,Others,Nurture,Low-cost re-engagement (email / push),443.88458315277103,77,1,12737.28,636.864
+14335,0.61791795,1,0,Others,Nurture,Low-cost re-engagement (email / push),1148.7867179438472,26,1,37182.5,1859.125
+14338,0.5667736,1,1,Others,Nurture,Low-cost re-engagement (email / push),71344.93850872756,91,2,62939.54,125879.08
+14339,0.72090095,1,1,Others,Nurture,Low-cost re-engagement (email / push),1193.7629565985203,172,1,33118.64,1655.932
+14340,0.79075074,1,1,Others,Nurture,Low-cost re-engagement (email / push),569.8505684387684,148,1,14412.9,720.645
+14342,0.55700743,1,0,Others,Nurture,Low-cost re-engagement (email / push),50032.83609320163,67,2,44912.18,89824.35999999999
+14346,0.42216033,0,1,Others,Low Priority,No immediate action — monitor,84612.80076628923,50,2,100214.06,200428.12
+14351,0.8699621,1,1,Others,Nurture,Low-cost re-engagement (email / push),237.36915795207025,94,1,5457.0,272.85
+14353,0.79983014,1,1,Others,Nurture,Low-cost re-engagement (email / push),387.68566652119165,145,1,9694.2,484.71000000000004
+14356,0.5864643,1,1,Others,Nurture,Low-cost re-engagement (email / push),44003.359574865106,9,2,75031.61,75031.61
+14359,0.6380326,1,0,Others,Nurture,Low-cost re-engagement (email / push),1650.0394343198243,17,1,51722.73,2586.1365000000005
+14360,0.58587176,1,0,Others,Nurture,Low-cost re-engagement (email / push),3524.617080800861,24,1,120320.43,6016.0215
+14375,0.6245644,1,1,Others,Nurture,Low-cost re-engagement (email / push),787.1047985072137,115,1,25204.920000000002,1260.246
+14383,0.57462406,1,0,Others,Nurture,Low-cost re-engagement (email / push),744.2424540190698,93,1,25903.63,1295.1815000000001
+14387,0.4063708,0,0,Others,Low Priority,No immediate action — monitor,80853.30391880154,4,2,99482.18,198964.36
+14389,0.66847664,1,0,Others,Nurture,Low-cost re-engagement (email / push),1112.7455484284758,120,1,33291.979999999996,1664.599
+14393,0.79035497,1,1,Others,Nurture,Low-cost re-engagement (email / push),287.3197170835734,148,1,7270.650000000001,363.5325
+14400,0.6815042,1,1,Others,Nurture,Low-cost re-engagement (email / push),2095.3834501644974,79,1,61492.9,3074.6450000000004
+14406,0.8069138,1,1,Others,Nurture,Low-cost re-engagement (email / push),676.6879933051765,49,1,16772.25,838.6125000000001
+14412,0.66057926,1,0,Others,Nurture,Low-cost re-engagement (email / push),1634.3441118125618,2,1,49482.15,2474.1075
+14418,0.7475397,1,0,Others,Nurture,Low-cost re-engagement (email / push),601.6603169614077,38,1,16097.08,804.854
+14420,0.69939256,1,1,Others,Nurture,Low-cost re-engagement (email / push),1450.0030300331116,29,1,41464.64,2073.232
+14421,0.6376502,1,0,Others,Nurture,Low-cost re-engagement (email / push),1552.8140364846586,141,1,48704.259999999995,2435.2129999999997
+14423,0.6825553,1,1,Others,Nurture,Low-cost re-engagement (email / push),968.4231361126899,148,1,28376.399999999998,1418.82
+14432,0.5027198,1,0,Others,Nurture,Low-cost re-engagement (email / push),670.1554312837424,19,1,26661.190000000002,1333.0595000000003
+14434,0.7731741,1,0,Others,Nurture,Low-cost re-engagement (email / push),1285.6184417617324,2,1,33255.600000000006,1662.7800000000004
+14436,0.75822634,1,1,Others,Nurture,Low-cost re-engagement (email / push),361.27286008697746,28,1,9529.42,476.471
+14441,0.56935614,1,0,Others,Nurture,Low-cost re-engagement (email / push),84972.76053426265,24,2,74621.8,149243.59999999998
+14446,0.3142124,0,0,Others,Low Priority,No immediate action — monitor,45358.396621017455,10,2,72177.92,144355.84
+14451,0.6351997,1,0,Others,Nurture,Low-cost re-engagement (email / push),1223.3946715593338,124,1,38520.0,1926.0
+14452,0.5968033,1,0,Others,Nurture,Low-cost re-engagement (email / push),352.55976351535327,23,1,11814.94,590.7470000000001
+14453,0.67125916,1,1,Others,Nurture,Low-cost re-engagement (email / push),430.69699725091465,120,1,12832.51,641.6255000000001
+14459,0.67459375,1,1,Others,Nurture,Low-cost re-engagement (email / push),6633.193962929249,85,1,196657.44,9832.872000000001
+14473,0.6948152,1,1,Others,Nurture,Low-cost re-engagement (email / push),34844.12163432837,4,2,25074.38,50148.76
+14481,0.6069673,1,1,Others,Nurture,Low-cost re-engagement (email / push),82676.91777491213,94,2,68106.57,136213.14
+14482,0.47113946,0,0,Others,Low Priority,No immediate action — monitor,46978.87039679587,29,2,49856.65,99713.3
+14489,0.6444463,1,1,Others,Nurture,Low-cost re-engagement (email / push),1597.6358999159934,137,1,49581.659999999996,2479.083
+14493,0.6935649,1,0,Others,Nurture,Low-cost re-engagement (email / push),2267.9759224877357,85,1,65400.54,3270.027
+14495,0.71791124,1,0,Others,Nurture,Low-cost re-engagement (email / push),155.93750118732453,51,1,4344.2,217.21
+14499,0.5430744,1,0,Others,Nurture,Low-cost re-engagement (email / push),42746.11602909445,63,2,39355.67,78711.34
+14503,0.60251373,1,0,Others,Nurture,Low-cost re-engagement (email / push),1821.7963651852906,108,1,60473.19,3023.6595
+14508,0.70312613,1,0,Others,Nurture,Low-cost re-engagement (email / push),517.4628647001982,19,1,14718.92,735.946
+14511,0.51930165,1,0,Others,Nurture,Low-cost re-engagement (email / push),36660.85836747646,22,2,35298.229999999996,70596.45999999999
+14517,0.62346715,1,0,Others,Nurture,Low-cost re-engagement (email / push),842.0594052149356,71,1,27012.15,1350.6075
+14523,0.6748299,1,1,Others,Nurture,Low-cost re-engagement (email / push),870.41686250332,38,1,25796.629999999997,1289.8315
+14529,0.40474692,0,0,Others,Low Priority,No immediate action — monitor,29288.280425783392,7,2,36180.98,72361.95999999999
+14535,0.33629352,0,0,Others,Loyalty,Loyalty rewards & upsell campaign,118947.46814206002,57,2,176850.67,353701.33999999997
+14540,0.51721966,1,0,Others,Nurture,Low-cost re-engagement (email / push),70609.28703261136,5,2,68258.51,136517.02
+14542,0.7490774,1,1,Others,Nurture,Low-cost re-engagement (email / push),413.78098108097913,115,1,11047.75,552.3875
+14548,0.62863296,1,1,Others,Nurture,Low-cost re-engagement (email / push),87819.52198333738,80,2,69849.59999999999,139699.19999999998
+14551,0.7407922,1,0,Others,Nurture,Low-cost re-engagement (email / push),497.1089861849249,134,1,13421.01,671.0505
+14552,0.5513546,1,1,Others,Nurture,Low-cost re-engagement (email / push),484.4074590513111,81,1,17571.54,878.5770000000001
+14557,0.61765844,1,1,Others,Nurture,Low-cost re-engagement (email / push),2605.180135347665,15,1,84356.66,4217.8330000000005
+14567,0.6792647,1,0,Others,Nurture,Low-cost re-engagement (email / push),2910.014910178542,60,1,85681.31999999999,4284.066
+14591,0.5725262,1,0,Others,Nurture,Low-cost re-engagement (email / push),572.9982643724679,143,1,20016.489999999998,1000.8245
+14595,0.6887304,1,0,Others,Nurture,Low-cost re-engagement (email / push),44220.91452867866,15,2,32103.21,64206.420000000006
+14597,0.6092735,1,0,Others,Nurture,Low-cost re-engagement (email / push),538.1621375206113,121,1,17665.7,883.2850000000001
+14608,0.5581912,1,0,Others,Nurture,Low-cost re-engagement (email / push),94481.28119648695,15,2,84631.65,169263.3
+14619,0.65396875,1,1,Others,Nurture,Low-cost re-engagement (email / push),1380.0401735812427,175,1,42205.08,2110.2540000000004
+14622,0.72579736,1,1,Others,Nurture,Low-cost re-engagement (email / push),1244.8172212527395,114,1,34302.06,1715.103
+14626,0.4035383,0,0,Others,Loyalty,Loyalty rewards & upsell campaign,135692.19434016585,52,2,168128.03,336256.06
+14628,0.5792635,1,1,Others,Nurture,Low-cost re-engagement (email / push),81196.60558510185,21,2,70086.07,140172.14
+14645,0.5715417,1,1,Others,Nurture,Low-cost re-engagement (email / push),68143.75411610841,86,2,59613.979999999996,119227.95999999999
+14647,0.6305999,1,1,Others,Nurture,Low-cost re-engagement (email / push),796.3304023000003,131,1,25256.28,1262.814
+14651,0.6361451,1,0,Others,Nurture,Low-cost re-engagement (email / push),1240.9390900998114,141,1,39014.34,1950.7169999999999
+14652,0.67894566,1,1,Others,Nurture,Low-cost re-engagement (email / push),414.74278306567675,7,1,12217.26,610.863
+14655,0.6740434,1,0,Others,Nurture,Low-cost re-engagement (email / push),2922.9865815467833,152,1,86729.92,4336.496
+14658,0.729273,1,0,Others,Nurture,Low-cost re-engagement (email / push),324.5749910993278,47,1,8901.33,445.0665
+14660,0.6629001,1,1,Others,Nurture,Low-cost re-engagement (email / push),40535.25336065769,16,2,30574.18,61148.36
+14687,0.68037474,1,1,Others,Nurture,Low-cost re-engagement (email / push),1999.0178730322125,36,1,58762.26,2938.1130000000003
+14689,0.68536603,1,1,Others,Nurture,Low-cost re-engagement (email / push),413.6046945047379,138,1,12069.6,603.48
+14690,0.62964106,1,0,Others,Nurture,Low-cost re-engagement (email / push),716.0252903881072,81,1,22743.92,1137.196
+14699,0.6970958,1,1,Others,Nurture,Low-cost re-engagement (email / push),406.9962525354922,144,1,11676.91,583.8455
+14705,0.87732923,1,1,Others,Nurture,Low-cost re-engagement (email / push),840.1743374049664,128,1,19153.0,957.6500000000001
+14708,0.6113598,1,0,Others,Nurture,Low-cost re-engagement (email / push),73649.99856003524,84,2,60234.58,120469.16
+14712,0.5407741,1,0,Others,Nurture,Low-cost re-engagement (email / push),48774.89345387935,5,2,45097.28999999999,90194.57999999999
+14716,0.64192194,1,0,Others,Nurture,Low-cost re-engagement (email / push),624.0777914479971,78,1,19444.04,972.2020000000001
+14720,0.58065367,1,0,Others,Nurture,Low-cost re-engagement (email / push),49844.36760357856,19,2,42920.909999999996,85841.81999999999
+14722,0.680508,1,1,Others,Nurture,Low-cost re-engagement (email / push),656.8583224064112,77,1,19304.94,965.247
+14737,0.5711984,1,0,Others,High Priority,Immediate retention offer (discount / VIP upgrade),132229.28889665008,58,2,115747.25,231494.5
+14753,0.6557363,1,1,Others,Nurture,Low-cost re-engagement (email / push),1975.6368326589466,17,1,60257.049999999996,3012.8525
+14757,0.6592137,1,1,Others,Nurture,Low-cost re-engagement (email / push),1483.016629482806,5,1,44993.5,2249.675
+14759,0.47257155,0,0,Others,Low Priority,No immediate action — monitor,86456.30380159616,42,2,91474.3,182948.6
+14765,0.5894288,1,0,Others,Nurture,Low-cost re-engagement (email / push),12046.156027197838,42,2,10218.5,20437.0
+14768,0.71425354,1,0,Others,Nurture,Low-cost re-engagement (email / push),508.99136110067377,57,1,14252.400000000001,712.6200000000001
+14772,0.78053576,1,1,Others,Nurture,Low-cost re-engagement (email / push),581.5311413345934,42,1,14900.82,745.041
+14775,0.56908476,1,0,Others,Nurture,Low-cost re-engagement (email / push),85426.70241984844,67,2,75056.22,150112.44
+14778,0.53040415,1,1,Others,Nurture,Low-cost re-engagement (email / push),82957.35196877716,57,2,78202.02,156404.03999999998
+14780,0.7451584,1,0,Others,Nurture,Low-cost re-engagement (email / push),1259.1667580123244,9,1,33795.95,1689.7975
+14790,0.57646286,1,0,Others,Nurture,Low-cost re-engagement (email / push),44909.085844488145,49,2,38952.28,77904.56
+14795,0.768882,1,1,Others,Nurture,Low-cost re-engagement (email / push),540.7220166619122,96,1,14065.15,703.2575
+14798,0.6692335,1,0,Others,Nurture,Low-cost re-engagement (email / push),13949.235400557516,74,2,10421.8,20843.6
+14806,0.70272714,1,1,Others,Nurture,Low-cost re-engagement (email / push),727.0671475459636,5,1,20692.73,1034.6365
+14816,0.71791124,1,1,Others,Nurture,Low-cost re-engagement (email / push),83.92202957987784,127,1,2337.95,116.8975
+14819,0.74650043,1,0,Others,Nurture,Low-cost re-engagement (email / push),338.3528140275479,122,1,9065.04,453.25200000000007
+14820,0.442722,0,0,Others,Low Priority,No immediate action — monitor,22945.687635782364,5,2,25914.33,51828.66
+14824,0.54482883,1,0,Others,Nurture,Low-cost re-engagement (email / push),44043.7285145682,3,2,80839.56999999999,80839.56999999999
+14847,0.7256771,1,1,Others,Nurture,Low-cost re-engagement (email / push),1201.2060021692516,78,1,33105.8,1655.2900000000002
+14853,0.6866713,1,0,Others,Nurture,Low-cost re-engagement (email / push),788.0068361744285,141,1,22951.5,1147.575
+14855,0.59941477,1,1,Others,Nurture,Low-cost re-engagement (email / push),82820.59872210621,49,2,69084.55,138169.09999999998
+14857,0.67939585,1,0,Others,Nurture,Low-cost re-engagement (email / push),1899.2388820542096,78,1,55909.64,2795.482
+14859,0.44676232,0,0,Others,Low Priority,No immediate action — monitor,87018.74806825162,10,2,97388.19,194776.38
+14862,0.6985474,1,0,Others,Nurture,Low-cost re-engagement (email / push),1136.4912514528633,78,1,32538.7,1626.9350000000002
+14869,0.6002181,1,0,Others,Nurture,Low-cost re-engagement (email / push),1242.9142708491684,33,1,41415.42,2070.771
+14873,0.67161804,1,1,Others,Nurture,Low-cost re-engagement (email / push),1867.2915893630984,140,1,55605.76,2780.2880000000005
+14875,0.47965962,0,1,Others,Loyalty,Loyalty rewards & upsell campaign,134320.9915789926,37,2,140016.99,280033.98
+14885,0.6266213,1,1,Others,Nurture,Low-cost re-engagement (email / push),2565.677125572085,61,1,81889.23999999999,4094.4619999999995
+14887,0.8418304,1,1,Others,Nurture,Low-cost re-engagement (email / push),324.2730596065521,9,1,7703.999999999999,385.2
+14888,0.65506697,1,1,Others,Nurture,Low-cost re-engagement (email / push),1293.9013745784762,137,1,39504.4,1975.2200000000003
+14891,0.5965647,1,1,Others,Nurture,Low-cost re-engagement (email / push),70774.8384176135,78,2,59318.659999999996,118637.31999999999
+14894,0.6686877,1,1,Others,Nurture,Low-cost re-engagement (email / push),2345.931986419857,15,1,70165.25,3508.2625000000003
+14897,0.59496105,1,0,Others,Nurture,Low-cost re-engagement (email / push),43976.90277838707,18,2,36957.8,73915.6
+14905,0.6345881,1,1,Others,Nurture,Low-cost re-engagement (email / push),83674.31492174862,87,2,65928.05,131856.09999999998
+14908,0.77454466,1,1,Others,Nurture,Low-cost re-engagement (email / push),1151.151504498124,4,1,29724.6,1486.23
+14912,0.64076686,1,0,Others,Nurture,Low-cost re-engagement (email / push),1655.053700573802,176,1,51658.53,2582.9265
+14915,0.6803002,1,1,Others,Nurture,Low-cost re-engagement (email / push),44764.241406378744,21,2,32900.36,65800.72
+14918,0.4944272,0,1,Others,Loyalty,Loyalty rewards & upsell campaign,170365.8200249195,45,2,172286.05,344572.1
+14921,0.56490314,1,0,Others,Nurture,Low-cost re-engagement (email / push),2729.105537143767,131,1,96622.07,4831.1035
+14924,0.76089716,1,1,Others,Nurture,Low-cost re-engagement (email / push),753.3015036809445,175,1,19800.350000000002,990.0175000000002
+14931,0.5202628,1,0,Others,Nurture,Low-cost re-engagement (email / push),56185.83071536422,4,2,53997.55,107995.1
+14934,0.56360954,1,1,Others,High Priority,Immediate retention offer (discount / VIP upgrade),226026.5095445001,11,2,200516.93,401033.86
+14937,0.67810446,1,0,Others,Nurture,Low-cost re-engagement (email / push),2755.576477434039,60,1,81272.92,4063.646
+14947,0.6680337,1,1,Others,Nurture,Low-cost re-engagement (email / push),39431.01092386723,2,2,29512.739999999998,59025.48
+14951,0.6752336,1,1,Others,Nurture,Low-cost re-engagement (email / push),1125.9800544029476,9,1,33350.83,1667.5415000000003
+14960,0.7587844,1,0,Others,Nurture,Low-cost re-engagement (email / push),358.45355078279977,101,1,9448.1,472.40500000000003
+14963,0.63485193,1,0,Others,Nurture,Low-cost re-engagement (email / push),999.2378962373735,113,1,31479.4,1573.9700000000003
+14965,0.5947425,1,1,Others,Nurture,Low-cost re-engagement (email / push),37933.6446094805,26,2,63781.63,63781.63
+14972,0.70047075,1,1,Others,Nurture,Low-cost re-engagement (email / push),430.1026969555318,58,1,12280.39,614.0195
+14981,0.69946057,1,1,Others,Nurture,Low-cost re-engagement (email / push),382.14468457353115,176,1,10926.84,546.342
+14984,0.6019996,1,0,Others,Nurture,Low-cost re-engagement (email / push),329.2519317596257,110,1,10938.61,546.9305
+14988,0.61427706,1,1,Others,Nurture,Low-cost re-engagement (email / push),1099.426333531797,141,1,35795.78,1789.789
+14997,0.5918189,1,0,Others,Nurture,Low-cost re-engagement (email / push),54925.24706342696,18,2,46403.76,92807.51999999999
+15004,0.59494436,1,1,Others,Nurture,Low-cost re-engagement (email / push),3784.1165182766317,77,1,127209.09,6360.4545
+15007,0.7813988,1,1,Others,Nurture,Low-cost re-engagement (email / push),655.9596560344696,89,1,16789.37,839.4685
+15014,0.6969849,1,0,Others,Nurture,Low-cost re-engagement (email / push),438.99976457136876,105,1,12597.11,629.8555000000001
+15016,0.61845994,1,1,Others,Nurture,Low-cost re-engagement (email / push),562.6216658177375,102,1,18194.28,909.7139999999999
+15030,0.6021709,1,1,Others,Nurture,Low-cost re-engagement (email / push),66787.9289801073,1,2,55455.96,110911.92
+15031,0.46010256,0,0,Others,Low Priority,No immediate action — monitor,25776.353220605848,40,2,28011.53,56023.06
+15035,0.6201248,1,1,Others,Nurture,Low-cost re-engagement (email / push),838.4741756095887,19,1,27042.11,1352.1055000000001
+15041,0.7288816,1,1,Others,Nurture,Low-cost re-engagement (email / push),701.64001225245,100,1,19252.51,962.6255
+15042,0.77994615,1,1,Others,Nurture,Low-cost re-engagement (email / push),567.1967277400196,129,1,14544.51,727.2255
+15045,0.4684562,0,1,Others,Low Priority,No immediate action — monitor,73749.64182226895,81,2,78715.62,157431.24
+15050,0.54649335,1,0,Others,Nurture,Low-cost re-engagement (email / push),74776.39017379403,1,2,136829.46,136829.46
+15051,0.6396131,1,0,Others,Nurture,Low-cost re-engagement (email / push),998.998256434977,80,1,31237.579999999998,1561.879
+15053,0.5410167,1,0,Others,Nurture,Low-cost re-engagement (email / push),55411.146603918074,86,2,51210.2,102420.4
+15063,0.7369661,1,1,Others,Nurture,Low-cost re-engagement (email / push),455.7840378248692,143,1,12369.199999999999,618.46
+15069,0.5975794,1,1,Others,Nurture,Low-cost re-engagement (email / push),3493.032774201453,109,1,116906.06,5845.303
+15071,0.5821668,1,1,Others,Nurture,Low-cost re-engagement (email / push),122349.90764565705,23,2,105081.48999999999,210162.97999999998
+15074,0.6030974,1,1,Others,Nurture,Low-cost re-engagement (email / push),2373.6914719448987,35,1,78716.69,3935.8345000000004
+15075,0.6649859,1,1,Others,Nurture,Low-cost re-engagement (email / push),2750.1891489521267,7,1,82714.20999999999,4135.7105
+15076,0.58229846,1,1,Others,Nurture,Low-cost re-engagement (email / push),2632.114222622216,102,1,90404.3,4520.215
+15098,0.8626595,1,1,Others,Nurture,Low-cost re-engagement (email / push),1370.7228346914053,112,1,31779.0,1588.95
+15099,0.6990431,1,1,Others,Nurture,Low-cost re-engagement (email / push),1535.1461717960835,14,1,43921.36,2196.068
+15103,0.6745309,1,0,Others,Nurture,Low-cost re-engagement (email / push),745.8544741414786,16,1,22114.760000000002,1105.738
+15109,0.6843508,1,1,Others,Nurture,Low-cost re-engagement (email / push),1651.4188640932737,175,1,48262.35,2413.1175
+15110,0.5236515,1,0,Others,Nurture,Low-cost re-engagement (email / push),37719.8729165554,56,2,36016.2,72032.4
+15116,0.50122887,1,0,Others,Nurture,Low-cost re-engagement (email / push),84841.79767522217,64,2,84633.79,169267.58000000002
+15117,0.5225544,1,0,Others,Nurture,Low-cost re-engagement (email / push),54093.90109096527,50,2,51759.11,103518.22
+15119,0.67738277,1,1,Others,Nurture,Low-cost re-engagement (email / push),697.80077726081,175,1,20602.85,1030.1425
+15120,0.65428567,1,1,Others,Nurture,Low-cost re-engagement (email / push),1060.3497499957084,63,1,32412.44,1620.622
+15123,0.6018305,1,0,Others,Nurture,Low-cost re-engagement (email / push),3443.472106640339,136,1,114433.29,5721.6645
+15124,0.75296116,1,0,Others,Nurture,Low-cost re-engagement (email / push),365.57205458879474,121,1,9710.25,485.51250000000005
+15130,0.6932603,1,1,Others,Nurture,Low-cost re-engagement (email / push),1224.3590646715759,99,1,35321.77,1766.0884999999998
+15135,0.78053576,1,1,Others,Nurture,Low-cost re-engagement (email / push),580.6542094109952,169,1,14878.35,743.9175
+15136,0.67939585,1,0,Others,Nurture,Low-cost re-engagement (email / push),2118.7061631122233,26,1,62370.3,3118.5150000000003
+15143,0.613091,1,1,Others,Nurture,Low-cost re-engagement (email / push),851.0055495917798,155,1,27761.15,1388.0575000000001
+15146,0.43912587,0,1,Others,Loyalty,Loyalty rewards & upsell campaign,124717.12075878859,94,2,142006.12,284012.24
+15147,0.6859719,1,1,Others,Nurture,Low-cost re-engagement (email / push),2288.2136685714127,170,1,66714.5,3335.7250000000004
+15149,0.6700744,1,1,Others,Nurture,Low-cost re-engagement (email / push),1867.014908387661,63,1,55725.6,2786.28
+15154,0.67313254,1,1,Others,Nurture,Low-cost re-engagement (email / push),915.7281595122815,5,1,27207.96,1360.3980000000001
+15157,0.39143246,0,0,Others,Loyalty,Loyalty rewards & upsell campaign,118979.49082013726,84,2,151979.59,303959.18
+15163,0.82148236,1,0,Others,Nurture,Low-cost re-engagement (email / push),681.2142473310232,122,1,16585.0,829.25
+15175,0.6261031,1,1,Others,Nurture,Low-cost re-engagement (email / push),750.79091005224,1,1,23982.98,1199.1490000000001
+15182,0.627641,1,1,Others,Nurture,Low-cost re-engagement (email / push),83658.20908564924,84,2,66644.95,133289.9
+15184,0.58871895,1,0,Others,Nurture,Low-cost re-engagement (email / push),740.8913194973768,120,1,25169.61,1258.4805000000001
+15198,0.7273166,1,1,Others,Nurture,Low-cost re-engagement (email / push),30139.244239215852,22,2,20719.48,41438.96
+15205,0.5935054,1,1,Others,Nurture,Low-cost re-engagement (email / push),78662.46745489122,14,2,66269.38,132538.76
+15208,0.5437618,1,0,Others,Nurture,Low-cost re-engagement (email / push),37646.412246437074,93,2,34616.64,69233.28
+15215,0.6417739,1,0,Others,Nurture,Low-cost re-engagement (email / push),1030.1844162527323,26,1,32104.28,1605.214
+15216,0.71405184,1,1,Others,Nurture,Low-cost re-engagement (email / push),369.02913282036775,17,1,10336.199999999999,516.81
+15232,0.5822506,1,1,Others,Nurture,Low-cost re-engagement (email / push),76263.67203575134,43,2,65490.42,130980.84
+15238,0.5752092,1,0,Others,Nurture,Low-cost re-engagement (email / push),79738.32938625097,25,2,69312.45999999999,138624.92
+15239,0.6444463,1,0,Others,Nurture,Low-cost re-engagement (email / push),1592.1539173512163,8,1,49411.53,2470.5765
+15243,0.7199024,1,1,Others,Nurture,Low-cost re-engagement (email / push),1219.6859959366323,4,1,33884.76,1694.2380000000003
+15247,0.79443353,1,1,Others,Nurture,Low-cost re-engagement (email / push),1513.0781091332437,52,1,38092.0,1904.6000000000001
+15254,0.72373945,1,1,Others,Nurture,Low-cost re-engagement (email / push),1162.9957317327262,57,1,32138.52,1606.9260000000002
+15256,0.73847157,1,1,Others,Nurture,Low-cost re-engagement (email / push),388.9585132078826,78,1,10534.15,526.7075
+15261,0.5677079,1,1,Others,Nurture,Low-cost re-engagement (email / push),773.9487947312595,65,1,27265.74,1363.2870000000003
+15263,0.7813988,1,1,Others,Nurture,Low-cost re-engagement (email / push),654.2874626598359,36,1,16746.57,837.3285000000001
+15265,0.42149305,0,1,Others,Loyalty,Loyalty rewards & upsell campaign,134322.40942254066,81,2,159341.19,318682.38
+15267,0.66708106,1,0,Others,High Priority,Immediate retention offer (discount / VIP upgrade),179586.22579312325,85,2,134606.0,269212.0
+15272,0.6905202,1,0,Others,Nurture,Low-cost re-engagement (email / push),1104.4429097206594,16,1,31988.72,1599.4360000000001
+15289,0.55469674,1,0,Others,Nurture,Low-cost re-engagement (email / push),82853.78715403318,67,2,74683.86,149367.72
+15306,0.61039233,1,0,Others,Nurture,Low-cost re-engagement (email / push),85829.08478250026,22,2,70306.49,140612.97999999998
+15307,0.6745309,1,1,Others,Nurture,Low-cost re-engagement (email / push),740.8744123342633,25,1,21967.1,1098.355
+15313,0.8912557,1,1,Others,Nurture,Low-cost re-engagement (email / push),247.94732927083967,40,1,5564.0,278.2
+15315,0.57537425,1,0,Others,Nurture,Low-cost re-engagement (email / push),718.8950221027136,46,1,24988.78,1249.439
+15322,0.60654074,1,1,Others,Nurture,Low-cost re-engagement (email / push),2205.5568126869202,15,1,72725.76,3636.288
+15325,0.4804679,0,1,Others,Low Priority,No immediate action — monitor,415.75318573543433,33,1,17306.18,865.3090000000001
+15329,0.43054053,0,0,Others,Low Priority,No immediate action — monitor,69470.29806101322,64,2,80678.0,161356.0
+15341,0.7351747,1,1,Others,Nurture,Low-cost re-engagement (email / push),7947.0784066718825,10,1,216195.64,10809.782000000001
+15342,0.70129323,1,1,Others,Nurture,Low-cost re-engagement (email / push),1523.6166976965665,59,1,43451.63,2172.5815
+15343,0.7074099,1,1,Others,Nurture,Low-cost re-engagement (email / push),1379.5023964449763,17,1,39001.5,1950.075
+15344,0.70588267,1,0,Others,Nurture,Low-cost re-engagement (email / push),1165.7592270171046,4,1,33029.83,1651.4915
+15348,0.8069138,1,1,Others,Nurture,Low-cost re-engagement (email / push),682.2569088481665,2,1,16910.28,845.514
+15349,0.5163377,1,1,Others,Nurture,Low-cost re-engagement (email / push),51260.322874108555,88,2,49638.37,99276.74
+15351,0.3450505,0,0,Others,Low Priority,No immediate action — monitor,64702.27130295753,9,2,93757.68,187515.36
+15364,0.5648855,1,1,Others,Nurture,Low-cost re-engagement (email / push),110391.42643737554,25,2,97711.33,195422.66
+15366,0.58744395,1,1,Others,Nurture,Low-cost re-engagement (email / push),75743.34253861666,5,2,64468.57,128937.14
+15372,0.7133365,1,1,Others,Nurture,Low-cost re-engagement (email / push),5717.350893172145,67,1,160298.84,8014.942
+15374,0.66465,1,1,Others,Nurture,Low-cost re-engagement (email / push),597.3874406576157,58,1,17976.0,898.8000000000001
+15376,0.34883353,0,0,Others,Low Priority,No immediate action — monitor,71311.26436077297,47,2,102213.89,204427.78
+15392,0.55349123,1,0,Others,Nurture,Low-cost re-engagement (email / push),78821.8232986021,18,2,71204.22,142408.44
+15396,0.7072918,1,1,Others,Nurture,Low-cost re-engagement (email / push),1090.476299541056,42,1,30835.26,1541.763
+15398,0.607017,1,0,Others,Nurture,Low-cost re-engagement (email / push),2061.7013063795866,8,1,67928.95,3396.4475
+15399,0.6394048,1,0,Others,Nurture,Low-cost re-engagement (email / push),1043.9302781465053,9,1,32653.19,1632.6595
+15402,0.56384385,1,1,Others,Nurture,Low-cost re-engagement (email / push),64681.17767757178,78,2,57357.35,114714.70000000001
+15411,0.5876147,1,0,Others,Nurture,Low-cost re-engagement (email / push),48062.73513523698,54,2,40896.47,81792.94
+15417,0.6632952,1,1,Others,Nurture,Low-cost re-engagement (email / push),1805.5426236248015,15,1,54441.6,2722.08
+15429,0.5124513,1,0,Others,Nurture,Low-cost re-engagement (email / push),666.3767978385688,5,1,26007.42,1300.371
+15438,0.7499463,1,1,Others,Nurture,Low-cost re-engagement (email / push),628.2322621782423,61,1,16754.06,837.7030000000001
+15440,0.56771815,1,0,Others,Nurture,Low-cost re-engagement (email / push),28873.71355326176,66,2,25429.620000000003,50859.240000000005
+15452,0.47123602,0,0,Others,Low Priority,No immediate action — monitor,40648.404425675864,1,2,43129.56,86259.12
+15466,0.6273034,1,1,Others,Nurture,Low-cost re-engagement (email / push),1122.7072027252614,15,1,35794.71,1789.7355
+15467,0.5510861,1,0,Others,Nurture,Low-cost re-engagement (email / push),22266.232699189783,75,2,40404.270000000004,40404.270000000004
+15469,0.63276106,1,0,Others,Nurture,Low-cost re-engagement (email / push),1030.1381714251638,50,1,32560.1,1628.005
+15472,0.6373556,1,1,Others,Nurture,Low-cost re-engagement (email / push),1266.9648309849501,43,1,39756.92,1987.846
+15475,0.6822526,1,1,Others,Nurture,Low-cost re-engagement (email / push),1657.5248115099373,7,1,48589.770000000004,2429.4885000000004
+15480,0.5814718,1,1,Others,Nurture,Low-cost re-engagement (email / push),2717.659643726349,46,1,93475.2,4673.76
+15484,0.5171283,1,0,Others,Nurture,Low-cost re-engagement (email / push),4362.819517553866,8,1,168732.58,8436.628999999999
+15488,0.90937877,1,1,Others,Nurture,Low-cost re-engagement (email / push),371.31026311683655,22,1,8166.24,408.312
+15492,0.6380326,1,0,Others,Nurture,Low-cost re-engagement (email / push),1664.888048356712,4,1,52188.18,2609.409
+15494,0.572854,1,0,Others,Nurture,Low-cost re-engagement (email / push),3432.173290575147,51,1,119827.16,5991.358
+15500,0.6457187,1,0,Others,Nurture,Low-cost re-engagement (email / push),1168.4131247802973,11,1,36189.54,1809.477
+15504,0.69520146,1,1,Others,Nurture,Low-cost re-engagement (email / push),196.49208727911116,11,1,5652.81,282.64050000000003
+15506,0.5079612,1,0,Others,Nurture,Low-cost re-engagement (email / push),567.3517847009003,68,1,22338.39,1116.9195
+15511,0.6280094,1,0,Others,Nurture,Low-cost re-engagement (email / push),681.7136009475589,15,1,21710.3,1085.515
+15512,0.7339816,1,1,Others,Nurture,Low-cost re-engagement (email / push),19005.719792366028,85,2,12947.0,25894.0
+15522,0.52760684,1,0,Others,Nurture,Low-cost re-engagement (email / push),731.2195594695211,17,1,27718.35,1385.9175
+15523,0.77757305,1,1,Others,Nurture,Low-cost re-engagement (email / push),1713.9681149148048,14,1,44085.07,2204.2535000000003
+15533,0.51332563,1,0,Others,Nurture,Low-cost re-engagement (email / push),30469.561914592978,12,2,59357.18,59357.17999999999
+15537,0.7255737,1,1,Others,Nurture,Low-cost re-engagement (email / push),364.77456847587223,93,1,10054.789999999999,502.73949999999996
+15541,0.7394799,1,1,Others,Nurture,Low-cost re-engagement (email / push),336.79279252511265,44,1,9108.91,455.44550000000004
+15568,0.58529794,1,0,Others,Nurture,Low-cost re-engagement (email / push),714.9171464857459,3,1,24429.17,1221.4585
+15571,0.5820396,1,0,Others,Nurture,Low-cost re-engagement (email / push),630.1000590795278,8,1,21651.45,1082.5725
+15573,0.6149273,1,0,Others,Nurture,Low-cost re-engagement (email / push),1329.3999361391068,15,1,43237.63,2161.8815
+15578,0.67254746,1,1,Others,Nurture,Low-cost re-engagement (email / push),457.3221843177081,92,1,13599.7,679.9850000000001
+15582,0.53095704,1,0,Others,Nurture,Low-cost re-engagement (email / push),61528.96936776281,30,2,57941.57,115883.14000000001
+15584,0.56079656,1,0,Others,Nurture,Low-cost re-engagement (email / push),34614.61801481843,2,2,30862.010000000002,61724.02
+15603,0.6945988,1,1,Others,Nurture,Low-cost re-engagement (email / push),180.1566999979019,8,1,5187.36,259.368
+15608,0.72624177,1,0,Others,Nurture,Low-cost re-engagement (email / push),1109.97920240283,50,1,30567.76,1528.388
+15623,0.65428567,1,1,Others,Nurture,Low-cost re-engagement (email / push),1053.7339404503107,71,1,32210.21,1610.5105
+15626,0.55704945,1,1,Others,Nurture,Low-cost re-engagement (email / push),80561.16038959027,4,2,72310.6,144621.2
+15636,0.49914506,0,1,Others,Low Priority,No immediate action — monitor,77416.72008933306,19,2,77549.32,155098.64
+15639,0.6903875,1,1,Others,Nurture,Low-cost re-engagement (email / push),1445.738366225958,64,1,41881.94,2094.097
+15652,0.6994819,1,1,Others,Nurture,Low-cost re-engagement (email / push),1263.9001485902668,21,1,36138.18,1806.909
+15653,0.69202906,1,1,Others,Nurture,Low-cost re-engagement (email / push),177.71306233406068,45,1,5136.0,256.8
+15663,0.77764827,1,1,Others,Nurture,Low-cost re-engagement (email / push),574.7201763914227,36,1,14780.98,739.049
+15679,0.5690898,1,0,Others,Nurture,Low-cost re-engagement (email / push),31695.818975262642,84,2,27847.82,55695.64
+15683,0.7455398,1,1,Others,Nurture,Low-cost re-engagement (email / push),772.7985827997327,47,1,20731.25,1036.5625
+15689,0.6628966,1,1,Others,Nurture,Low-cost re-engagement (email / push),36046.59213820696,49,2,27188.7,54377.4
+15690,0.6970958,1,0,Others,Nurture,Low-cost re-engagement (email / push),413.97034758031367,30,1,11877.0,593.85
+15701,0.3153516,0,0,Others,Low Priority,No immediate action — monitor,63100.05243242741,3,2,100047.14,200094.28
+15706,0.42662826,0,0,Others,Low Priority,No immediate action — monitor,80229.42418748618,5,2,94027.32,188054.64
+15707,0.6319336,1,0,Others,Nurture,Low-cost re-engagement (email / push),537.148640554905,16,1,17000.16,850.008
+15713,0.61444443,1,1,Others,Nurture,Low-cost re-engagement (email / push),46902.87858513593,73,2,38166.9,76333.79999999999
+15714,0.75729483,1,0,Others,Nurture,Low-cost re-engagement (email / push),536.74634466362,7,1,14175.359999999999,708.768
+15730,0.46262035,0,0,Others,Low Priority,No immediate action — monitor,76945.36634719491,22,2,83162.54,166325.08000000002
+15734,0.65636206,1,1,Others,High Priority,Immediate retention offer (discount / VIP upgrade),188141.12957444193,44,2,143321.15,286642.30000000005
+15743,0.56069356,1,0,Others,Nurture,Low-cost re-engagement (email / push),52080.97468828559,43,2,46443.35,92886.7
+15744,0.7072087,1,1,Others,Nurture,Low-cost re-engagement (email / push),131.66811446785925,7,1,3723.5999999999995,186.17999999999998
+15745,0.5900154,1,0,Others,Nurture,Low-cost re-engagement (email / push),76736.51938056946,3,2,65029.25,130058.5
+15746,0.62619376,1,1,Others,Nurture,Low-cost re-engagement (email / push),659.5748988809586,64,1,21066.16,1053.308
+15747,0.6154273,1,0,Others,Nurture,Low-cost re-engagement (email / push),69191.98840148807,50,2,56214.59,112429.18
+15754,0.46185195,0,0,Others,Low Priority,No immediate action — monitor,29988.91568477154,3,2,32465.94,64931.880000000005
+15762,0.6469283,1,0,Others,Nurture,Low-cost re-engagement (email / push),973.9787126801014,7,1,30110.87,1505.5435
+15763,0.6201403,1,0,Others,Nurture,Low-cost re-engagement (email / push),1680.5734296734333,7,1,54199.78,2709.989
+15776,0.66459244,1,1,Others,Nurture,Low-cost re-engagement (email / push),859.09672196728,63,1,25853.34,1292.6670000000001
+15781,0.6909268,1,0,Others,Nurture,Low-cost re-engagement (email / push),31242.46578631401,67,2,22609.1,45218.2
+15782,0.6513754,1,0,Others,Nurture,Low-cost re-engagement (email / push),4665.598202391982,19,1,143253.74,7162.687
+15786,0.51738495,1,0,Others,Nurture,Low-cost re-engagement (email / push),8712.697305968166,44,1,336797.48,16839.874
+15795,0.60251373,1,1,Others,Nurture,Low-cost re-engagement (email / push),1802.4234399508239,79,1,59830.12,2991.5060000000003
+15800,0.46296218,0,1,Others,Low Priority,No immediate action — monitor,69043.61477080524,37,2,74567.23,149134.46000000002
+15801,0.77764827,1,0,Others,Nurture,Low-cost re-engagement (email / push),570.8925916058422,39,1,14682.54,734.1270000000001
+15806,0.4921769,0,0,Others,Low Priority,No immediate action — monitor,54967.45696726799,87,2,55841.159999999996,111682.32
+15807,0.5996451,1,0,Others,Nurture,Low-cost re-engagement (email / push),2039.0691025555134,7,1,68009.2,3400.46
+15829,0.49370345,0,1,Others,Low Priority,No immediate action — monitor,67209.80635846974,29,2,68066.98,136133.96000000002
+15831,0.4670351,0,0,Others,Low Priority,No immediate action — monitor,41632.30408986211,54,2,44570.85,89141.70000000001
+15839,0.47329843,0,0,Others,Low Priority,No immediate action — monitor,80052.29556174278,10,2,84568.51999999999,169137.03999999998
+15865,0.5625312,1,0,Others,Nurture,Low-cost re-engagement (email / push),70652.00275160074,18,2,62798.3,125596.6
+15866,0.5931754,1,1,Others,Nurture,Low-cost re-engagement (email / push),564.8492092244626,31,1,19044.93,952.2465000000001
+15885,0.6543642,1,1,Others,Nurture,Low-cost re-engagement (email / push),1223.021465791762,23,1,37380.45,1869.0225
+15888,0.68657213,1,1,Others,Nurture,Low-cost re-engagement (email / push),618.2297143689692,10,1,18009.17,900.4585
+15889,0.5684332,1,1,Others,Nurture,Low-cost re-engagement (email / push),48429.192018113135,86,2,42598.84,85197.68
+15895,0.7451154,1,1,Others,Nurture,Low-cost re-engagement (email / push),714.2374446534516,79,1,19171.190000000002,958.5595000000002
+15901,0.5684813,1,0,Others,Nurture,Low-cost re-engagement (email / push),25821.274553596973,7,2,22710.75,45421.5
+15933,0.4826208,0,0,Others,Low Priority,No immediate action — monitor,37608.1731804499,1,2,77924.89,77924.89
+15942,0.7007796,1,1,Others,Nurture,Low-cost re-engagement (email / push),1265.1202453866006,63,1,36106.08,1805.304
+15947,0.7197608,1,1,Others,Nurture,Low-cost re-engagement (email / push),6577.954187803746,12,1,182781.68,9139.084
+15949,0.6748299,1,0,Others,Nurture,Low-cost re-engagement (email / push),855.7949856393337,1,1,25363.28,1268.164
+15952,0.6852503,1,0,Others,Nurture,Low-cost re-engagement (email / push),45342.18887863159,89,2,33084.4,66168.8
+15958,0.7224546,1,1,Others,Nurture,Low-cost re-engagement (email / push),403.3265398581326,4,1,11165.45,558.2725
+15975,0.6937068,1,1,Others,Nurture,Low-cost re-engagement (email / push),1376.9410760844648,14,1,39698.07,1984.9035000000001
+15978,0.60631233,1,1,Others,Nurture,Low-cost re-engagement (email / push),3564.1906881456975,7,1,117569.46,5878.473000000001
+15985,0.63191956,1,1,Others,Nurture,Low-cost re-engagement (email / push),140291.1224714446,53,2,111003.94,222007.88
+16008,0.60175663,1,0,Others,Nurture,Low-cost re-engagement (email / push),42587.48427772165,5,2,35385.97,70771.94
+16009,0.6054263,1,0,Others,Nurture,Low-cost re-engagement (email / push),1430.323596173048,89,1,47250.13,2362.5065
+16012,0.521442,1,0,Others,High Priority,Immediate retention offer (discount / VIP upgrade),124551.83333582283,58,2,119430.19,238860.38
+16014,0.33816653,0,0,Others,Low Priority,No immediate action — monitor,37224.4658755517,82,2,55038.66,110077.32
+16031,0.38639137,0,1,Others,Low Priority,No immediate action — monitor,42001.24438959062,22,2,54350.65,108701.29999999999
+16036,0.48694482,0,1,Others,Low Priority,No immediate action — monitor,75932.9683026862,17,2,77968.76,155937.52
+16040,0.52265286,1,0,Others,Nurture,Low-cost re-engagement (email / push),97998.72917075158,78,2,93751.26,187502.52000000002
+16041,0.7683816,1,1,Others,Nurture,Low-cost re-engagement (email / push),122256.42729616165,71,2,159109.0,159109.0
+16042,0.50762737,1,0,Others,Nurture,Low-cost re-engagement (email / push),47850.33645160675,37,2,47131.36,94262.72
+16049,0.5105607,1,0,Others,Nurture,Low-cost re-engagement (email / push),1322.346319165796,5,1,51799.77,2589.9885
+16053,0.54790384,1,0,Others,Nurture,Low-cost re-engagement (email / push),3295.3218702892364,52,1,120288.33,6014.4165
+16054,0.57672906,1,1,Others,Nurture,Low-cost re-engagement (email / push),2320.296351051331,75,1,80464.0,4023.2000000000003
+16066,0.71426976,1,0,Others,Nurture,Low-cost re-engagement (email / push),812.7996989375353,54,1,22758.899999999998,1137.945
+16080,0.75759107,1,1,Others,Nurture,Low-cost re-engagement (email / push),35206.95396855831,11,2,23236.12,46472.24
+16083,0.5024109,1,1,Others,High Priority,Immediate retention offer (discount / VIP upgrade),141665.1399182129,30,2,140985.34,281970.68
+16091,0.5940927,1,1,Others,Nurture,Low-cost re-engagement (email / push),40055.4188579607,84,2,33711.42,67422.84
+16093,0.89297605,1,1,Others,Nurture,Low-cost re-engagement (email / push),81.21617134809495,36,1,1819.0,90.95
+16099,0.5875279,1,0,Others,Nurture,Low-cost re-engagement (email / push),74445.30403439999,67,2,63354.7,126709.4
+16102,0.4769308,0,0,Others,Loyalty,Loyalty rewards & upsell campaign,142157.6943666315,28,2,149033.88,298067.76
+16108,0.58229846,1,1,Others,Nurture,Low-cost re-engagement (email / push),2624.6375104263425,14,1,90147.5,4507.375
+16119,0.77172935,1,0,Others,Nurture,Low-cost re-engagement (email / push),1277.766176072359,2,1,33114.36,1655.718
+16136,0.5583176,1,0,Others,Nurture,Low-cost re-engagement (email / push),36159.41714015007,7,2,32382.48,64764.96
+16139,0.57506573,1,0,Others,Nurture,Low-cost re-engagement (email / push),37703.13809909582,42,2,32781.59,65563.18
+16141,0.67939585,1,1,Others,Nurture,Low-cost re-engagement (email / push),2131.7913272693754,18,1,62755.5,3137.775
+16147,0.7012824,1,1,Others,Nurture,Low-cost re-engagement (email / push),1406.9477789103985,63,1,40125.0,2006.25
+16149,0.6573457,1,0,Others,Nurture,Low-cost re-engagement (email / push),575.6297520117761,72,1,17513.760000000002,875.6880000000001
+16157,0.7164513,1,0,Others,Nurture,Low-cost re-engagement (email / push),645.172981601715,2,1,18010.239999999998,900.512
+16160,0.6712262,1,0,Others,Nurture,Low-cost re-engagement (email / push),1829.5015235887172,15,1,54512.22,2725.6110000000003
+16169,0.6815042,1,0,Others,Nurture,Low-cost re-engagement (email / push),2141.90701519686,5,1,62858.22,3142.911
+16178,0.7198661,1,1,Others,Nurture,Low-cost re-engagement (email / push),762.1690281620622,68,1,21175.3,1058.765
+16181,0.753297,1,1,Others,Nurture,Low-cost re-engagement (email / push),1231.3686079033614,3,1,32692.78,1634.6390000000001
+16189,0.8068739,1,0,Others,Nurture,Low-cost re-engagement (email / push),623.6877183237076,15,1,15459.36,772.9680000000001
+16198,0.6597372,1,1,Others,Nurture,Low-cost re-engagement (email / push),1414.241324437612,5,1,42872.867,2143.64335
+16200,0.5972325,1,0,Others,Nurture,Low-cost re-engagement (email / push),1650.8608762839735,94,1,55283.69,2764.1845000000003
+16201,0.65428567,1,0,Others,Nurture,Low-cost re-engagement (email / push),1063.430126926899,39,1,32506.6,1625.33
+16211,0.6700744,1,1,Others,Nurture,Low-cost re-engagement (email / push),1961.0109354574086,18,1,58531.14,2926.5570000000002
+16213,0.7932337,1,1,Others,Nurture,Low-cost re-engagement (email / push),674.7642406493426,8,1,17013.0,850.6500000000001
+16215,0.63614845,1,1,Others,Nurture,Low-cost re-engagement (email / push),824.8125897645951,10,1,25931.45,1296.5725000000002
+16229,0.57600874,1,1,Others,Nurture,Low-cost re-engagement (email / push),124572.48795588018,17,2,108134.2,216268.40000000002
+16236,0.6592137,1,1,Others,Nurture,Low-cost re-engagement (email / push),1524.2801123958825,8,1,46245.4,2312.27
+16240,0.53565925,1,0,Others,Nurture,Low-cost re-engagement (email / push),4398.365892182678,7,1,164222.53,8211.1265
+16245,0.4660805,0,0,Others,Low Priority,No immediate action — monitor,73185.12323454022,51,2,78511.25,157022.5
+16268,0.5762971,1,1,Others,Nurture,Low-cost re-engagement (email / push),35623.171579116584,1,2,61813.9,61813.9
+16272,0.7099038,1,1,Others,Nurture,Low-cost re-engagement (email / push),1563.6305089208486,46,1,44051.9,2202.5950000000003
+16278,0.696524,1,1,Others,Nurture,Low-cost re-engagement (email / push),1290.7516541851758,30,1,37062.659999999996,1853.1329999999998
+16279,0.4348638,0,0,Others,Low Priority,No immediate action — monitor,67392.80956471442,17,2,77487.26,154974.52
+16281,0.68722415,1,1,Others,Nurture,Low-cost re-engagement (email / push),6459.06378318572,2,1,187975.46,9398.773
+16292,0.71391237,1,1,Others,Nurture,Low-cost re-engagement (email / push),1154.4230704799295,51,1,32340.75,1617.0375000000001
+16302,0.693074,1,1,Others,Nurture,Low-cost re-engagement (email / push),864.7671277763844,56,1,24954.54,1247.727
+16303,0.42924878,0,0,Others,Loyalty,Loyalty rewards & upsell campaign,355204.06084306183,45,2,413750.81,827501.62
+16305,0.7012824,1,1,Others,Nurture,Low-cost re-engagement (email / push),1355.2471378613711,68,1,38650.54,1932.527
+16309,0.5969428,1,1,Others,Nurture,Low-cost re-engagement (email / push),90261.31841702698,36,2,75602.98999999999,151205.97999999998
+16325,0.561334,1,0,Others,Nurture,Low-cost re-engagement (email / push),49974.60176647663,85,2,44514.14,89028.28
+16330,0.6610747,1,0,Others,Nurture,Low-cost re-engagement (email / push),3463.1852417564387,42,2,5238.72,5238.719999999999
+16338,0.6927842,1,1,Others,Nurture,Low-cost re-engagement (email / push),796.1337356686593,87,1,22983.6,1149.18
+16340,0.5012705,1,1,Others,Nurture,Low-cost re-engagement (email / push),1387.454511734724,37,1,55357.520000000004,2767.876
+16341,0.48705915,0,0,Others,Loyalty,Loyalty rewards & upsell campaign,159669.90157988013,15,2,163912.23,327824.46
+16344,0.8209568,1,1,Others,Nurture,Low-cost re-engagement (email / push),444.0432329446077,88,1,10817.699999999999,540.885
+16350,0.5692916,1,0,Others,Nurture,Low-cost re-engagement (email / push),69003.60610656739,15,2,60604.8,121209.6
+16354,0.62995446,1,0,Others,Nurture,Low-cost re-engagement (email / push),1233.850848440528,3,1,39172.7,1958.635
+16357,0.62354404,1,0,Others,Nurture,Low-cost re-engagement (email / push),32292.0986058712,92,2,25894.0,51788.0
+16358,0.5491384,1,0,Others,High Priority,Immediate retention offer (discount / VIP upgrade),133327.35045026543,9,2,121396.85,242793.7
+16360,0.5202321,1,0,Others,Nurture,Low-cost re-engagement (email / push),24897.209726747275,10,2,47857.89,47857.89
+16361,0.5926927,1,0,Others,Nurture,Low-cost re-engagement (email / push),1062.0631892059446,1,1,35838.58,1791.929
+16364,0.6880818,1,0,Others,Nurture,Low-cost re-engagement (email / push),1274.8125930061935,67,1,37054.1,1852.705
+16369,0.4700818,0,0,Others,Low Priority,No immediate action — monitor,84847.96090187073,10,2,90248.08,180496.16
+16379,0.6458337,1,0,Others,Nurture,Low-cost re-engagement (email / push),1654.6310320096015,8,1,51240.159999999996,2562.008
+16383,0.531891,1,1,Others,Nurture,Low-cost re-engagement (email / push),73275.77052927019,4,2,68882.31999999999,137764.64
+16384,0.5108919,1,1,Others,Nurture,Low-cost re-engagement (email / push),63903.89332485199,19,2,62541.5,125083.0
+16385,0.46554795,0,0,Others,Low Priority,No immediate action — monitor,27279.93663500428,88,2,29298.739999999998,58597.479999999996
+16398,0.4822976,0,1,Others,Loyalty,Loyalty rewards & upsell campaign,156603.0915525079,84,2,162351.1,324702.2
+16400,0.6957707,1,1,Others,Nurture,Low-cost re-engagement (email / push),1068.2466445317864,24,1,30706.86,1535.343
+16418,0.5422542,1,0,Others,Nurture,Low-cost re-engagement (email / push),39850.12087141514,22,2,36744.87,73489.74
+16429,0.89297605,1,1,Others,Nurture,Low-cost re-engagement (email / push),23.648238127827646,36,1,529.65,26.4825
+16438,0.55780065,1,0,Others,Nurture,Low-cost re-engagement (email / push),609.9773234534264,12,1,21870.8,1093.54
+16447,0.5576921,1,1,Others,Nurture,Low-cost re-engagement (email / push),763.5465858422816,65,1,27382.37,1369.1185
+16450,0.7770836,1,1,Others,Nurture,Low-cost re-engagement (email / push),1296.7753128306867,79,1,33375.44,1668.7720000000002
+16451,0.62446815,1,1,Others,Nurture,Low-cost re-engagement (email / push),891.9212985224426,17,1,28565.79,1428.2895
+16460,0.4070439,0,0,Others,Low Priority,No immediate action — monitor,22151.846205034555,2,2,54421.270000000004,54421.270000000004
+16464,0.43693015,0,0,Others,Low Priority,No immediate action — monitor,88026.57829692542,10,2,100733.01,201466.02
+16468,0.75375307,1,1,Others,Nurture,Low-cost re-engagement (email / push),302.0401598674059,4,1,8014.3,400.71500000000003
+16480,0.58893883,1,1,Others,Nurture,Low-cost re-engagement (email / push),2323.3851896238925,5,1,78900.73,3945.0365
+16485,0.6220931,1,1,Others,Nurture,Low-cost re-engagement (email / push),1210.2991975679995,7,1,38910.55,1945.5275000000001
+16488,0.5554915,1,0,Others,Nurture,Low-cost re-engagement (email / push),36449.50846103906,44,2,32808.34,65616.68
+16498,0.52948815,1,1,Others,Nurture,Low-cost re-engagement (email / push),11440.957480338811,91,2,10803.79,21607.579999999998
+16511,0.41379297,0,0,Others,Low Priority,No immediate action — monitor,50093.693922829625,74,2,60529.9,121059.79999999999
+16527,0.6402261,1,1,Others,Nurture,Low-cost re-engagement (email / push),781.1533407361508,11,1,24402.420000000002,1220.121
+16536,0.5884761,1,1,Others,Nurture,Low-cost re-engagement (email / push),1672.3076085844339,40,1,56835.189999999995,2841.7595
+16545,0.7604094,1,1,Others,Nurture,Low-cost re-engagement (email / push),1380.3369922050836,94,1,36305.1,1815.255
+16555,0.7945187,1,0,Others,Nurture,Low-cost re-engagement (email / push),646.017600805521,39,1,16261.86,813.0930000000001
+16557,0.74333084,1,0,Others,Nurture,Low-cost re-engagement (email / push),402.2553403887153,67,1,10823.05,541.1525
+16573,0.55141324,1,1,Others,Nurture,Low-cost re-engagement (email / push),78307.59452489973,14,2,71006.27,142012.54
+16574,0.67451084,1,1,Others,Nurture,Low-cost re-engagement (email / push),1629.0812706027032,1,1,48304.08,2415.204
+16582,0.80883,1,1,Others,Nurture,Low-cost re-engagement (email / push),1357.109203885317,43,1,33557.340000000004,1677.8670000000002
+16584,0.5379338,1,1,Others,Nurture,Low-cost re-engagement (email / push),95672.13351940154,10,2,88925.56,177851.12
+16594,0.6587533,1,1,Others,Nurture,Low-cost re-engagement (email / push),638.220924392283,5,1,19376.63,968.8315000000001
+16603,0.58363503,1,1,Others,Nurture,Low-cost re-engagement (email / push),30129.744155263306,4,2,51624.29,51624.29
+16616,0.77581584,1,0,Others,Nurture,Low-cost re-engagement (email / push),540.4100428283215,87,1,13931.4,696.57
+16624,0.48480567,0,1,Others,Low Priority,No immediate action — monitor,82440.56481151938,10,2,85024.34000000001,170048.68
+16627,0.6752336,1,1,Others,Nurture,Low-cost re-engagement (email / push),1166.1149268865586,9,1,34539.6,1726.98
+16629,0.5806465,1,1,Others,Nurture,Low-cost re-engagement (email / push),25387.845635719303,3,2,43723.409999999996,43723.41
+16637,0.5670058,1,0,Others,Nurture,Low-cost re-engagement (email / push),51290.09844220877,53,2,45228.9,90457.8
+16641,0.6748299,1,1,Others,Nurture,Low-cost re-engagement (email / push),834.3495662388207,35,1,24727.7,1236.3850000000002
+16650,0.67243963,1,1,Others,Nurture,Low-cost re-engagement (email / push),1865.0429317805174,1,1,55470.94,2773.5470000000005
+16653,0.62983775,1,0,Others,Nurture,Low-cost re-engagement (email / push),3709.661532014251,1,1,117797.37,5889.8685000000005
+16657,0.41841975,0,0,Others,Low Priority,No immediate action — monitor,37141.054084754585,78,2,44382.53,88765.06
+16669,0.56339794,1,0,Others,Nurture,Low-cost re-engagement (email / push),43726.09192094922,8,2,77611.38,77611.38
+16671,0.8230751,1,0,Others,Nurture,Low-cost re-engagement (email / push),1151.943008902073,94,1,27991.199999999997,1399.56
+16674,0.6044736,1,0,Others,Nurture,Low-cost re-engagement (email / push),372.22577014207843,28,1,12315.7,615.7850000000001
+16689,0.76724577,1,1,Others,Nurture,Low-cost re-engagement (email / push),30437.652440509795,5,2,39671.32,39671.32
+16690,0.7220935,1,1,Others,Nurture,Low-cost re-engagement (email / push),32239.17952439666,2,2,22323.41,44646.82
+16706,0.42789236,0,0,Others,Low Priority,No immediate action — monitor,34581.01941387355,28,2,40408.549999999996,80817.1
+16715,0.6589503,1,1,Others,Nurture,Low-cost re-engagement (email / push),784.4685053625107,8,1,23809.64,1190.482
+16723,0.6293151,1,1,Others,Nurture,Low-cost re-engagement (email / push),1328.04832951203,37,1,42206.15,2110.3075000000003
+16734,0.6092158,1,0,Others,Nurture,Low-cost re-engagement (email / push),17633.489252248408,44,2,28944.57,28944.57
+16761,0.73173606,1,1,Others,Nurture,Low-cost re-engagement (email / push),1239.5001582502125,26,1,33878.34,1693.917
+16762,0.73173606,1,0,Others,Nurture,Low-cost re-engagement (email / push),1229.8306320330503,74,1,33614.05,1680.7025000000003
+16768,0.5617216,1,0,Others,Nurture,Low-cost re-engagement (email / push),34438.512340039015,33,2,30654.43,61308.86
+16777,0.439004,0,1,Others,Low Priority,No immediate action — monitor,20914.449273359776,10,2,23820.34,47640.68
+16778,0.52379215,1,1,Others,Nurture,Low-cost re-engagement (email / push),27567.788328995706,4,2,26315.58,52631.16
+16780,0.5905989,1,1,Others,Nurture,Low-cost re-engagement (email / push),53366.13692598343,30,2,45179.68,90359.36
+16788,0.500738,1,1,Others,Nurture,Low-cost re-engagement (email / push),63693.6063447833,53,2,63599.73,127199.45999999999
+16796,0.71587586,1,1,Others,Nurture,Low-cost re-engagement (email / push),1170.5050013701916,19,1,32701.34,1635.067
+16808,0.64748585,1,1,Others,Nurture,Low-cost re-engagement (email / push),39964.04407374859,28,2,30860.94,61721.880000000005
+16820,0.6601392,1,1,Others,Nurture,Low-cost re-engagement (email / push),1641.2370964677932,25,1,49723.97,2486.1985000000004
+16824,0.64675546,1,0,Others,Nurture,Low-cost re-engagement (email / push),771.2655837142468,94,1,23850.3,1192.515
+16828,0.7817242,1,1,Others,Nurture,Low-cost re-engagement (email / push),474.68248618245127,42,1,12144.5,607.225
+16829,0.6968924,1,1,Others,Nurture,Low-cost re-engagement (email / push),735.3099669860603,86,1,21102.54,1055.1270000000002
+16835,0.7560912,1,1,Others,Nurture,Low-cost re-engagement (email / push),29262.16514107585,58,2,19350.95,38701.9
+16836,0.7574828,1,0,Others,Nurture,Low-cost re-engagement (email / push),370.0773247829676,46,1,9771.24,488.562
+16859,0.54553336,1,1,Others,Nurture,Low-cost re-engagement (email / push),79719.90264613867,74,2,73066.02,146132.04
+16861,0.7488725,1,0,Others,Nurture,Low-cost re-engagement (email / push),283.6579325723648,88,1,7575.6,378.78000000000003
+16877,0.49031132,0,0,Others,Low Priority,No immediate action — monitor,18050.527034448383,82,2,18407.21,36814.42
+16878,0.7072087,1,1,Others,Nurture,Low-cost re-engagement (email / push),50.3214345523715,14,1,1423.1,71.155
+16902,0.5561312,1,1,Others,Nurture,Low-cost re-engagement (email / push),5078.483196023942,46,1,182636.16,9131.808
+16909,0.71391237,1,1,Others,Nurture,Low-cost re-engagement (email / push),1151.1001653639078,2,1,32247.66,1612.383
+16924,0.6019123,1,0,Others,Nurture,Low-cost re-engagement (email / push),873.0368020594419,14,1,29008.77,1450.4385000000002
+16950,0.41641447,0,0,Others,Low Priority,No immediate action — monitor,69366.21405830204,54,2,83289.87,166579.74
+16952,0.5610021,1,1,Others,Nurture,Low-cost re-engagement (email / push),10061.162695664763,39,2,17934.27,17934.27
+16959,0.78442734,1,1,Others,Nurture,Low-cost re-engagement (email / push),492.48113668009637,17,1,12556.449999999999,627.8225
+16961,0.64347005,1,1,Others,Nurture,Low-cost re-engagement (email / push),806.1453902329208,46,1,25056.190000000002,1252.8095000000003
+16968,0.5612773,1,0,Others,Nurture,Low-cost re-engagement (email / push),760.6477275905013,37,1,27104.17,1355.2085
+16969,0.5572821,1,0,Others,Nurture,Low-cost re-engagement (email / push),55059.20301507949,64,2,49399.76,98799.51999999999
+16978,0.61685276,1,1,Others,Nurture,Low-cost re-engagement (email / push),1136.3448736319542,7,1,36843.31,1842.1655
+16979,0.522345,1,0,Others,Nurture,Low-cost re-engagement (email / push),62111.57460835576,77,2,59454.549999999996,118909.1
+16984,0.36231643,0,1,Others,Loyalty,Loyalty rewards & upsell campaign,339200.92401239753,18,2,468100.39,936200.78
+16999,0.6464409,1,0,Others,Nurture,Low-cost re-engagement (email / push),850.1929610222281,4,1,26303.81,1315.1905000000002
+17004,0.66512907,1,0,Others,Nurture,Low-cost re-engagement (email / push),2268.1499750173093,22,1,68201.8,3410.09
+17006,0.70291424,1,0,Others,Nurture,Low-cost re-engagement (email / push),1055.82357777977,5,1,30041.32,1502.066
+17015,0.3489426,0,0,Others,Loyalty,Loyalty rewards & upsell campaign,116941.2826546973,1,2,167565.21,335130.42
+17024,0.8354771,1,0,Others,Nurture,Low-cost re-engagement (email / push),10057.0557564497,29,2,6018.75,12037.5
+17031,0.6457043,1,0,Others,Nurture,Low-cost re-engagement (email / push),780.548378302604,84,1,24176.649999999998,1208.8325
+17034,0.509484,1,0,Others,Nurture,Low-cost re-engagement (email / push),39782.7111484623,9,2,39042.16,78084.32
+17037,0.5346475,1,1,Others,Nurture,Low-cost re-engagement (email / push),3624.996828038335,17,1,135603.24,6780.162
+17040,0.6376502,1,1,Others,Nurture,Low-cost re-engagement (email / push),1534.2217510177195,67,1,48121.11,2406.0555
+17041,0.48475397,0,0,Others,Low Priority,No immediate action — monitor,77895.33783663034,38,2,80345.23,160690.46
+17045,0.5720778,1,1,Others,Nurture,Low-cost re-engagement (email / push),36664.95887880206,43,2,32045.43,64090.86
+17046,0.6789345,1,1,Others,Nurture,Low-cost re-engagement (email / push),2332.009023023665,87,1,68696.14,3434.8070000000002
+17053,0.6462413,1,1,Others,Nurture,Low-cost re-engagement (email / push),1723.4402626061442,60,1,53337.36,2666.8680000000004
+17070,0.6550379,1,1,Others,Nurture,Low-cost re-engagement (email / push),1066.194676578522,44,1,32553.68,1627.6840000000002
+17073,0.34864998,0,0,Others,Low Priority,No immediate action — monitor,62762.10736347197,12,2,90007.33,180014.65999999997
+17079,0.6969849,1,1,Others,Nurture,Low-cost re-engagement (email / push),442.98965455770485,8,1,12711.599999999999,635.5799999999999
+17096,0.5444603,1,0,Others,Nurture,Low-cost re-engagement (email / push),51725.44867446899,73,2,47501.58,95003.16
+17105,0.5111785,1,1,Others,Nurture,Low-cost re-engagement (email / push),72831.13732408524,89,2,71238.46,142476.92
+17122,0.78947353,1,1,Others,Nurture,Low-cost re-engagement (email / push),584.2198885688782,49,1,14800.24,740.0120000000001
+17123,0.77675027,1,1,Others,Nurture,Low-cost re-engagement (email / push),1434.9334886661175,91,1,36947.100000000006,1847.3550000000005
+17131,0.61241764,1,0,Others,Nurture,Low-cost re-engagement (email / push),2587.629568378836,5,1,84505.39,4225.2695
+17134,0.5615776,1,1,Others,Nurture,Low-cost re-engagement (email / push),49657.388566923146,36,2,44212.4,88424.8
+17144,0.6785404,1,0,Others,Nurture,Low-cost re-engagement (email / push),1840.2891198665502,14,1,54242.58,2712.1290000000004
+17154,0.71040535,1,1,Others,Nurture,Low-cost re-engagement (email / push),1251.712203660965,5,1,35239.38,1761.969
+17159,0.46487108,0,0,Others,Low Priority,No immediate action — monitor,92187.36566064657,5,2,99153.69,198307.38
+17163,0.690691,1,0,Others,Nurture,Low-cost re-engagement (email / push),454.87872845649724,8,1,13171.699999999999,658.585
+17172,0.68082064,1,1,Others,Nurture,Low-cost re-engagement (email / push),1157.405987763405,8,1,34000.32,1700.016
+17173,0.5576511,1,0,Others,Nurture,Low-cost re-engagement (email / push),114714.20754969836,46,2,102854.81999999999,205709.64
+17183,0.79576063,1,0,Others,Nurture,Low-cost re-engagement (email / push),1403.5104796264175,35,1,35274.69,1763.7345000000003
+17189,0.517161,1,1,Others,Nurture,Low-cost re-engagement (email / push),42470.55518299341,35,2,41061.25,82122.5
+17229,0.5378286,1,1,Others,Nurture,Low-cost re-engagement (email / push),36687.785984807015,26,2,34107.32,68214.64
+17242,0.61855793,1,1,Others,High Priority,Immediate retention offer (discount / VIP upgrade),150246.83047180175,38,2,121449.28,242898.56
+17248,0.7320094,1,1,Others,Nurture,Low-cost re-engagement (email / push),1247.9131734192372,50,1,34095.55,1704.7775000000001
+17252,0.4152856,0,1,Others,Low Priority,No immediate action — monitor,31008.020973482133,46,2,37333.37,74666.74
+17256,0.65734994,1,1,Others,Nurture,Low-cost re-engagement (email / push),33761.493129730225,37,2,25680.0,51360.0
+17259,0.44122562,0,1,Others,Low Priority,No immediate action — monitor,54881.0631287545,78,2,62191.61,124383.22
+17265,0.41107392,0,1,Others,Low Priority,No immediate action — monitor,48384.28044835567,68,2,58851.07,117702.13999999998
+17266,0.68475527,1,0,Others,Nurture,Low-cost re-engagement (email / push),414.1886023269296,77,1,12097.42,604.871
+17267,0.654373,1,1,Others,Nurture,Low-cost re-engagement (email / push),22209.681034255023,57,2,33940.4,33940.399999999994
+17268,0.71791124,1,1,Others,Nurture,Low-cost re-engagement (email / push),134.42888033390045,80,1,3745.0,187.25
+17298,0.57735336,1,1,Others,Nurture,Low-cost re-engagement (email / push),30790.79730862856,31,2,53330.94,53330.94
+17309,0.74028057,1,1,Others,Nurture,Low-cost re-engagement (email / push),327.7314612261951,25,1,8854.25,442.71250000000003
+17311,0.5142767,1,1,Others,High Priority,Immediate retention offer (discount / VIP upgrade),130965.70017695427,8,2,127330.0,254660.0
+17317,0.7834871,1,0,Others,Nurture,Low-cost re-engagement (email / push),5891.1208486633295,19,1,150382.08,7519.103999999999
+17331,0.8817231,1,1,Others,Nurture,Low-cost re-engagement (email / push),826.4567016291618,53,1,18746.399999999998,937.3199999999999
+17333,0.6380326,1,1,Others,Nurture,Low-cost re-engagement (email / push),1687.1097672946753,15,1,52884.75,2644.2375
+17339,0.6889235,1,1,Others,Nurture,Low-cost re-engagement (email / push),35878.473374290465,24,2,26039.52,52079.04
+17348,0.42854807,0,0,Others,Low Priority,No immediate action — monitor,60584.071761994965,1,2,70685.27,141370.54
+17388,0.7450147,1,1,Others,Nurture,Low-cost re-engagement (email / push),24103.103859303,7,2,16176.26,32352.52
+17391,0.8728215,1,1,Others,Nurture,Low-cost re-engagement (email / push),475.1779951000214,93,1,10888.32,544.416
+17405,0.3875969,0,0,Others,Low Priority,No immediate action — monitor,71835.9856093812,2,2,92668.42,185336.84
+17408,0.71791124,1,1,Others,Nurture,Low-cost re-engagement (email / push),125.40294122576714,93,1,3493.5499999999997,174.6775
+17410,0.5651629,1,0,Others,Nurture,Low-cost re-engagement (email / push),50742.41600525379,26,2,44891.85,89783.7
+17411,0.5427296,1,0,Others,Nurture,Low-cost re-engagement (email / push),66137.11786262512,5,2,60930.08,121860.16
+17415,0.73534685,1,1,Others,Nurture,Low-cost re-engagement (email / push),1132.5896806084813,9,1,30804.23,1540.2115000000001
+17427,0.7191924,1,1,Others,Nurture,Low-cost re-engagement (email / push),387.8460697460175,1,1,10785.6,539.2800000000001
+17433,0.66560066,1,1,Others,Nurture,Low-cost re-engagement (email / push),1079.5416999433041,18,1,32438.12,1621.906
+17434,0.64713484,1,0,Others,Nurture,Low-cost re-engagement (email / push),1729.5623428920508,15,1,53452.92,2672.646
+17444,0.57965755,1,1,Others,High Priority,Immediate retention offer (discount / VIP upgrade),288857.6654188156,81,2,249162.34,498324.68
+17447,0.6929142,1,0,Others,Nurture,Low-cost re-engagement (email / push),1380.8172204093933,1,1,39855.36,1992.768
+17451,0.4828068,0,0,Others,Low Priority,No immediate action — monitor,57960.82136970043,11,2,60024.86,120049.72
+17464,0.72221774,1,1,Others,Nurture,Low-cost re-engagement (email / push),959.0112685924768,88,1,26557.399999999998,1327.87
+17466,0.68315125,1,0,Others,Nurture,Low-cost re-engagement (email / push),1591.5449704132081,8,1,46594.22,2329.7110000000002
+17475,0.6461401,1,1,Others,Nurture,Low-cost re-engagement (email / push),671.9078426327706,9,1,20797.59,1039.8795
+17480,0.67939585,1,1,Others,Nurture,Low-cost re-engagement (email / push),1860.3468663648964,7,1,54764.74,2738.237
+17481,0.5568872,1,0,Others,Nurture,Low-cost re-engagement (email / push),776.5070966362059,23,1,27887.41,1394.3705
+17483,0.56395006,1,0,Others,Nurture,Low-cost re-engagement (email / push),33157.08295537948,64,2,29397.18,58794.36
+17498,0.6257087,1,1,Others,Nurture,Low-cost re-engagement (email / push),911.2677582532168,5,1,29127.54,1456.3770000000002
+17505,0.5017957,1,1,Others,High Priority,Immediate retention offer (discount / VIP upgrade),123045.20540556908,91,2,122604.88,245209.76
+17506,0.70468676,1,1,Others,Nurture,Low-cost re-engagement (email / push),1139.3164144241812,5,1,32335.4,1616.7700000000002
+17513,0.75736856,1,1,Others,Nurture,Low-cost re-engagement (email / push),2079.446278352738,2,1,54912.4,2745.6200000000003
+17514,0.54191005,1,1,Others,Nurture,Low-cost re-engagement (email / push),604.9219984057545,58,1,22325.55,1116.2775
+17528,0.53588617,1,0,Others,Nurture,Low-cost re-engagement (email / push),58674.69103758811,1,2,109490.96,109490.95999999999
+17553,0.8591512,1,1,Others,Nurture,Low-cost re-engagement (email / push),1092.118619763851,59,1,25423.199999999997,1271.1599999999999
+17554,0.5136509,1,0,Others,Nurture,Low-cost re-engagement (email / push),115515.18586818695,52,2,112445.23,224890.46
+17557,0.65711904,1,0,Others,Nurture,Low-cost re-engagement (email / push),1013.7546215014459,11,1,30854.52,1542.726
+17564,0.586598,1,0,Others,Nurture,Low-cost re-engagement (email / push),373.83419927668575,10,1,12745.84,637.292
+17573,0.70937264,1,0,Others,Nurture,Low-cost re-engagement (email / push),13830.26238787532,15,2,19496.47,19496.47
+17579,0.51744676,1,0,Others,Nurture,Low-cost re-engagement (email / push),29993.304483690263,67,2,28982.02,57964.04
+17584,0.6198821,1,0,Others,Nurture,Low-cost re-engagement (email / push),2485.4529503595827,57,1,80191.15,4009.5575
+17594,0.53956676,1,1,Others,Nurture,Low-cost re-engagement (email / push),114679.7987450695,15,2,106270.26,212540.52
+17603,0.81294525,1,1,Others,Nurture,Low-cost re-engagement (email / push),629.424483145237,8,1,15485.04,774.2520000000001
+17625,0.35460308,0,0,Others,Loyalty,Loyalty rewards & upsell campaign,93120.83310780227,70,2,131302.91,262605.82
+17628,0.7965688,1,1,Others,Nurture,Low-cost re-engagement (email / push),322.8194677434862,11,1,8105.25,405.26250000000005
+17631,0.57050025,1,0,Others,Nurture,Low-cost re-engagement (email / push),48779.882621896264,67,2,42751.85,85503.7
+17637,0.6855725,1,0,Others,Nurture,Low-cost re-engagement (email / push),1243.205183043182,45,1,36267.65,1813.3825000000002
+17640,0.7611348,1,1,Others,Nurture,Low-cost re-engagement (email / push),2531.4437807180284,16,1,66517.62,3325.881
+17642,0.6351784,1,1,Others,Nurture,Low-cost re-engagement (email / push),96820.27966627479,49,2,76215.03,152430.06
+17649,0.58660245,1,1,Others,Nurture,Low-cost re-engagement (email / push),2672.407656305075,68,1,91114.78,4555.7390000000005
+17653,0.68571454,1,0,Others,Nurture,Low-cost re-engagement (email / push),12223.68458403349,29,2,8913.1,17826.2
+17660,0.6097366,1,1,Others,Nurture,Low-cost re-engagement (email / push),583.09875273332,71,1,19126.25,956.3125
+17674,0.54416513,1,1,Others,Nurture,Low-cost re-engagement (email / push),46394.213365173346,4,2,42628.799999999996,85257.6
+17679,0.70812446,1,0,Others,Nurture,Low-cost re-engagement (email / push),6225.207092156411,15,1,175822.4,8791.12
+17693,0.5750414,1,1,Others,Nurture,Low-cost re-engagement (email / push),616.7402538724542,67,1,21450.29,1072.5145
+17694,0.65120125,1,1,Others,Nurture,Low-cost re-engagement (email / push),986.3693209915161,71,1,30293.84,1514.692
+17695,0.5120669,1,1,Others,Nurture,Low-cost re-engagement (email / push),83867.73030622721,61,2,81891.38,163782.76
+17703,0.47827289,0,0,Others,Low Priority,No immediate action — monitor,50249.95111143589,39,2,52532.72,105065.44
+17728,0.64993984,1,0,Others,Nurture,Low-cost re-engagement (email / push),1199.7307659268677,16,1,36918.21,1845.9105
+17734,0.5367313,1,0,Others,Nurture,Low-cost re-engagement (email / push),62048.79004917026,66,2,57802.47,115604.94
+17736,0.68229544,1,0,Others,Nurture,Low-cost re-engagement (email / push),1122.4247856013178,43,1,32901.43,1645.0715
+17742,0.7158014,1,1,Others,Nurture,Low-cost re-engagement (email / push),47212.07116757036,43,2,32978.47,65956.94
+17747,0.89877224,1,1,Others,Nurture,Low-cost re-engagement (email / push),343.32200783729553,42,1,7639.799999999999,381.99
+17754,0.48541477,0,0,Others,Low Priority,No immediate action — monitor,59736.52057112098,72,2,61531.42,123062.84
+17777,0.60759866,1,0,Others,Nurture,Low-cost re-engagement (email / push),616.9739097368716,30,1,20308.6,1015.43
+17779,0.4205359,0,0,Others,Low Priority,No immediate action — monitor,43310.84014971613,17,2,51494.82,102989.63999999998
+17781,0.6360195,1,1,Others,Nurture,Low-cost re-engagement (email / push),25591.059810540675,89,2,20118.14,40236.28
+17783,0.7611777,1,1,Others,Nurture,Low-cost re-engagement (email / push),46175.0042511785,2,2,30331.29,60662.579999999994
+17786,0.5431411,1,1,Others,Nurture,Low-cost re-engagement (email / push),31016.562863373758,15,2,28552.95,57105.9
+17788,0.6702152,1,1,Others,High Priority,Immediate retention offer (discount / VIP upgrade),160335.98190289736,3,2,119615.30000000002,239230.6
+17805,0.79576063,1,1,Others,Nurture,Low-cost re-engagement (email / push),1396.3581830699445,3,1,35094.93,1754.7465000000002
+17813,0.6619551,1,0,Others,Nurture,Low-cost re-engagement (email / push),979.7802910258771,1,1,29602.62,1480.131
+17844,0.7706813,1,1,Others,Nurture,Low-cost re-engagement (email / push),212.58935984385013,36,1,5516.92,275.846
+17864,0.47394085,0,0,Others,Low Priority,No immediate action — monitor,44430.52332090378,19,2,46873.49,93746.98000000001
+17866,0.79576063,1,1,Others,Nurture,Low-cost re-engagement (email / push),1403.4253332388403,72,1,35272.55,1763.6275000000003
+17883,0.49795574,0,0,Others,Low Priority,No immediate action — monitor,21078.0680883646,16,2,21164.6,42329.2
+17887,0.74225384,1,1,Others,Nurture,Low-cost re-engagement (email / push),283.73209723219276,59,1,7645.15,382.2575
+17891,0.5706257,1,1,Others,Nurture,Low-cost re-engagement (email / push),622.3535147703291,91,1,21813.02,1090.651
+17892,0.72110337,1,0,Others,Nurture,Low-cost re-engagement (email / push),548.2080206361414,85,1,15204.7,760.2350000000001
+17898,0.7293617,1,1,Others,Nurture,Low-cost re-engagement (email / push),23734.04280266523,15,2,16270.419999999998,32540.839999999997
+17899,0.70234746,1,1,Others,Nurture,Low-cost re-engagement (email / push),517.0401042461395,89,1,14723.2,736.1600000000001
+17919,0.68380487,1,1,Others,Nurture,Low-cost re-engagement (email / push),4770.642626880885,18,1,139532.28,6976.6140000000005
+17926,0.61920124,1,1,Others,Nurture,Low-cost re-engagement (email / push),52644.52682545066,63,2,42510.03,85020.06
+17931,0.5435567,1,1,Others,Nurture,Low-cost re-engagement (email / push),47500.89734355927,64,2,43694.520000000004,87389.04000000001
+17935,0.69833565,1,1,Others,Nurture,Low-cost re-engagement (email / push),10893.707884540558,68,2,15599.53,15599.529999999999
+17939,0.6907342,1,1,Others,Nurture,Low-cost re-engagement (email / push),366.3647329928279,89,1,10607.98,530.399
+17941,0.89527303,1,1,Others,Nurture,Low-cost re-engagement (email / push),666.7277307558061,60,1,14894.400000000001,744.7200000000001
+17958,0.7395134,1,1,Others,Nurture,Low-cost re-engagement (email / push),2011.6694534263613,46,1,54405.22,2720.2610000000004
+17962,0.58533347,1,1,Others,Nurture,Low-cost re-engagement (email / push),320.7004016441703,72,1,10957.87,547.8935
+17984,0.633114,1,1,Others,Nurture,Low-cost re-engagement (email / push),517.1515574347974,75,1,16336.76,816.8380000000001
+18001,0.52760684,1,0,Others,Nurture,Low-cost re-engagement (email / push),706.0411056171059,16,1,26763.91,1338.1955
+18013,0.57982135,1,1,Others,Nurture,Low-cost re-engagement (email / push),11619.63721237421,85,2,20040.03,20040.03
+18018,0.694725,1,1,Others,Nurture,Low-cost re-engagement (email / push),13705.992865065336,38,2,9864.33,19728.66
+18024,0.7016479,1,1,Others,Nurture,Low-cost re-engagement (email / push),29263.24914509535,82,2,41706.46,41706.46
+18027,0.69698155,1,1,Others,Nurture,Low-cost re-engagement (email / push),429.9738420835137,28,1,12338.17,616.9085
+18036,0.535985,1,0,Others,Nurture,Low-cost re-engagement (email / push),29098.443034038544,35,2,27144.83,54289.66
+18064,0.65414155,1,1,Others,Nurture,Low-cost re-engagement (email / push),113948.84062433243,63,2,87097.99999999999,174196.0
+18066,0.8120517,1,1,Others,Nurture,Low-cost re-engagement (email / push),1381.543580120802,5,1,34026.0,1701.3000000000002
+18079,0.45343786,0,0,Others,Low Priority,No immediate action — monitor,85672.82223433255,56,2,94470.3,188940.59999999998
+18081,0.665012,1,0,Others,Nurture,Low-cost re-engagement (email / push),29608.1298610568,42,2,22261.350000000002,44522.7
+18099,0.57735896,1,1,Others,Nurture,Low-cost re-engagement (email / push),519.887784078479,57,1,18009.170000000002,900.4585000000002
+18101,0.60087174,1,0,Others,Nurture,Low-cost re-engagement (email / push),354.3523927108944,73,1,11794.61,589.7305
+18121,0.6166136,1,1,Others,Nurture,Low-cost re-engagement (email / push),43103.203993201256,79,2,69903.1,69903.1
+18122,0.5402989,1,0,Others,Nurture,Low-cost re-engagement (email / push),37130.322318912746,14,2,34360.91,68721.82
+18127,0.78053576,1,0,Others,Nurture,Low-cost re-engagement (email / push),582.9509358775616,63,1,14937.2,746.8600000000001
+18135,0.6817652,1,0,Others,Nurture,Low-cost re-engagement (email / push),34062.74828164339,10,2,24981.29,49962.58
+18142,0.60546297,1,1,Others,Nurture,Low-cost re-engagement (email / push),57435.3796665287,87,2,47430.96,94861.92
+18143,0.4612151,0,1,Others,Low Priority,No immediate action — monitor,98715.82525279044,46,2,107017.12,214034.24
+18146,0.76705015,1,1,Others,Nurture,Low-cost re-engagement (email / push),26321.249091231824,70,2,17157.45,34314.9
+18147,0.70906204,1,0,Others,Nurture,Low-cost re-engagement (email / push),375.0994915781021,38,1,10580.16,529.008
+18150,0.5784039,1,0,Others,Nurture,Low-cost re-engagement (email / push),51155.15057882309,70,2,44220.96,88441.92000000001
+18151,0.56436384,1,1,Others,Nurture,Low-cost re-engagement (email / push),78907.60219529866,64,2,69908.45,139816.9
+18158,0.6855725,1,0,Others,Nurture,Low-cost re-engagement (email / push),1260.9940756165981,18,1,36786.6,1839.33
+18167,0.6462413,1,0,Others,Nurture,Low-cost re-engagement (email / push),1723.4402626061442,35,1,53337.36,2666.8680000000004
+18170,0.60147613,1,0,Others,Nurture,Low-cost re-engagement (email / push),84374.5546494901,42,2,70139.56999999999,140279.13999999998
+18188,0.3911906,0,0,Others,Loyalty,Loyalty rewards & upsell campaign,134636.81592112067,7,2,172085.96,344171.92000000004
+18189,0.47362664,0,1,Others,Loyalty,Loyalty rewards & upsell campaign,110502.47630838394,7,2,116655.68,233311.36
+18192,0.55866367,1,1,Others,Nurture,Low-cost re-engagement (email / push),2863.2292231040897,1,1,102502.79,5125.1395
+18194,0.7864218,1,1,Others,Nurture,Low-cost re-engagement (email / push),3000.686656246185,12,1,76312.4,3815.62
+18196,0.564725,1,1,Others,Nurture,Low-cost re-engagement (email / push),82980.02244798304,25,2,73469.41,146938.82
+18200,0.73320216,1,1,Others,Nurture,Low-cost re-engagement (email / push),589.7676539658011,36,1,16087.45,804.3725000000001
+18203,0.6834664,1,1,Others,Nurture,Low-cost re-engagement (email / push),586.5829658365845,87,1,17164.94,858.247
+18205,0.5789348,1,0,Others,Nurture,Low-cost re-engagement (email / push),699.2467007532119,4,1,24156.32,1207.816
+18215,0.7071216,1,1,Others,Nurture,Low-cost re-engagement (email / push),1132.4333386723995,19,1,32029.38,1601.469
+18222,0.6355882,1,1,Others,Nurture,Low-cost re-engagement (email / push),1506.3758814364674,22,1,47401.0,2370.05
+18228,0.6592137,1,0,Others,Nurture,Low-cost re-engagement (email / push),1482.6286822075544,9,1,44981.729999999996,2249.0865
+18248,0.6169475,1,1,Others,Nurture,Low-cost re-engagement (email / push),95603.21674767017,52,2,77480.84,154961.68
+18251,0.886109,1,1,Others,Nurture,Low-cost re-engagement (email / push),1450.649034869671,17,1,32742.0,1637.1000000000001
+18255,0.7453662,1,1,Others,Nurture,Low-cost re-engagement (email / push),411.93036594092854,19,1,11053.1,552.6550000000001
+18259,0.4742683,0,0,Others,Loyalty,Loyalty rewards & upsell campaign,128713.94701076749,15,2,135697.4,271394.80000000005
+18261,0.58005524,1,0,Others,Nurture,Low-cost re-engagement (email / push),697.6208322143555,25,1,24053.6,1202.68
+18262,0.7465597,1,1,Others,Nurture,Low-cost re-engagement (email / push),597.0372137769461,70,1,15994.36,799.7180000000001
+18263,0.46910957,0,0,Others,Low Priority,No immediate action — monitor,81455.99722617863,85,2,86819.8,173639.59999999998
+18265,0.4744567,0,1,Others,Low Priority,No immediate action — monitor,78334.29058469832,2,2,82551.56999999999,165103.14
+18268,0.8834806,1,1,Others,Nurture,Low-cost re-engagement (email / push),120.52884200960399,64,1,2728.5,136.425
+18273,0.8432204,1,0,Others,Nurture,Low-cost re-engagement (email / push),27608.722753643982,25,2,16370.999999999996,32741.999999999993
+18278,0.7656631,1,1,Others,Nurture,Low-cost re-engagement (email / push),712.34613827914,3,1,18607.3,930.365
+18282,0.72030467,1,0,Others,Nurture,Low-cost re-engagement (email / push),386.17225964751844,56,1,10722.47,536.1235

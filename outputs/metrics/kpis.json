@@ -1,0 +1,9 @@
+{
+    "total_customers": 3565,
+    "churn_rate": 0.4864,
+    "high_risk_count": 2104,
+    "total_revenue_inr": 513787981.24,
+    "revenue_at_risk_inr": 284897116.87,
+    "avg_clv_inr": 781392.39,
+    "high_priority_customers": 72
+}

@@ -1,0 +1,23 @@
+# Core data science
+pandas>=2.0.0
+numpy>=1.24.0,<2.0.0
+scipy>=1.10.0
+
+# Machine learning
+scikit-learn>=1.3.0
+xgboost>=2.0.0
+
+# SHAP — use a recent version with pre-built wheels on PyPI
+# If this still fails, install manually: pip install shap --only-binary :all:
+shap>=0.43.0
+
+# Visualisation
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.15.0
+
+# Streamlit dashboard
+streamlit>=1.28.0
+
+# Utilities
+joblib>=1.3.0

@@ -1,0 +1,161 @@
+/* ── Force light theme everywhere ─────────────────────────────────────── */
+html, body, [data-testid="stAppViewContainer"],
+[data-testid="stApp"], .main {
+    background-color: #f8fafc !important;
+    color: #1e293b !important;
+}
+
+/* Main content area */
+.main .block-container {
+    background-color: #f8fafc !important;
+    padding-top: 1.5rem;
+    padding-bottom: 2rem;
+    max-width: 1200px;
+}
+
+/* All text elements */
+h1, h2, h3, h4, h5, h6, p, span, div, label {
+    color: #1e293b !important;
+}
+
+/* Sidebar */
+section[data-testid="stSidebar"] {
+    background-color: #f1f5f9 !important;
+    border-right: 1px solid #e2e8f0 !important;
+}
+section[data-testid="stSidebar"] * {
+    color: #1e293b !important;
+}
+section[data-testid="stSidebar"] .block-container {
+    padding-top: 1rem;
+}
+
+/* Metric cards */
+[data-testid="metric-container"] {
+    background: #ffffff !important;
+    border: 1px solid #e2e8f0 !important;
+    border-radius: 8px !important;
+    padding: 0.75rem 1rem !important;
+    box-shadow: 0 1px 3px rgba(0,0,0,.06) !important;
+}
+[data-testid="metric-container"] * {
+    color: #1e293b !important;
+}
+[data-testid="stMetricDelta"] {
+    color: #64748b !important;
+}
+
+/* DataFrames / tables */
+[data-testid="stDataFrame"] {
+    background: #ffffff !important;
+    border: 1px solid #e2e8f0 !important;
+    border-radius: 8px !important;
+}
+
+/* Tabs */
+.stTabs [data-baseweb="tab-list"] {
+    gap: 0;
+    border-bottom: 2px solid #e2e8f0;
+    background: transparent !important;
+}
+.stTabs [data-baseweb="tab"] {
+    padding: 0.5rem 1.25rem;
+    font-size: 0.875rem;
+    font-weight: 500;
+    color: #64748b !important;
+    background: transparent !important;
+    border-bottom: 2px solid transparent;
+    margin-bottom: -2px;
+}
+.stTabs [aria-selected="true"] {
+    color: #2563eb !important;
+    border-bottom-color: #2563eb !important;
+}
+.stTabs [data-baseweb="tab-panel"] {
+    background: transparent !important;
+}
+
+/* Expanders */
+[data-testid="stExpander"] {
+    background: #ffffff !important;
+    border: 1px solid #e2e8f0 !important;
+    border-radius: 8px !important;
+}
+
+/* Selectbox / radio / slider */
+[data-testid="stSelectbox"], [data-testid="stRadio"],
+[data-testid="stSlider"] {
+    background: transparent !important;
+}
+.stRadio label, .stSelectbox label {
+    color: #1e293b !important;
+}
+
+/* Buttons */
+.stButton button {
+    background: #2563eb !important;
+    color: #ffffff !important;
+    border: none !important;
+    border-radius: 6px !important;
+}
+
+/* Info / warning / error boxes */
+[data-testid="stAlert"] {
+    border-radius: 8px !important;
+}
+
+/* Plotly chart containers */
+[data-testid="stPlotlyChart"] {
+    background: #ffffff !important;
+    border: 1px solid #e2e8f0 !important;
+    border-radius: 8px !important;
+    padding: 0.5rem !important;
+}
+
+/* Images */
+[data-testid="stImage"] {
+    background: #ffffff !important;
+    border: 1px solid #e2e8f0 !important;
+    border-radius: 8px !important;
+    padding: 0.5rem !important;
+}
+
+/* Section header accent */
+.section-header {
+    font-size: 1.05rem;
+    font-weight: 600;
+    color: #1e293b !important;
+    border-left: 3px solid #2563eb;
+    padding-left: 0.75rem;
+    margin: 1.5rem 0 0.75rem;
+}
+
+/* Insight box */
+.insight-box {
+    background: #f0f9ff !important;
+    border: 1px solid #bae6fd !important;
+    border-radius: 8px;
+    padding: 1rem 1.25rem;
+    margin: 1rem 0;
+    font-size: 0.9rem;
+    color: #0c4a6e !important;
+}
+
+/* Dividers */
+hr {
+    border: none !important;
+    border-top: 1px solid #e2e8f0 !important;
+    margin: 1.5rem 0;
+}
+
+/* Code blocks */
+[data-testid="stCode"] {
+    background: #f1f5f9 !important;
+    border: 1px solid #e2e8f0 !important;
+    border-radius: 6px !important;
+}
+
+/* Caption text */
+[data-testid="stCaptionContainer"] p {
+    color: #64748b !important;
+}

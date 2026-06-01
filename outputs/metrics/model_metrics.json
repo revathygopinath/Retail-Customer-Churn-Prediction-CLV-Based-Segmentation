@@ -1,0 +1,26 @@
+{
+    "models": [
+        {
+            "model": "Logistic Regression",
+            "roc_auc": 0.721,
+            "f1_macro": 0.6719,
+            "precision": 0.6883,
+            "recall": 0.6787
+        },
+        {
+            "model": "Random Forest",
+            "roc_auc": 0.7186,
+            "f1_macro": 0.661,
+            "precision": 0.6753,
+            "recall": 0.6673
+        },
+        {
+            "model": "XGBoost (regularised)",
+            "roc_auc": 0.7162,
+            "f1_macro": 0.661,
+            "precision": 0.6753,
+            "recall": 0.6673
+        }
+    ],
+    "selected_threshold": 0.5
+}
