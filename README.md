@@ -1,9 +1,9 @@
 # Retail Customer Churn Prediction & CLV-Based Segmentation
 
-> Acquiring a new customer costs **5–7× more** than retaining one.
-> This project predicts which customers will churn, segments them by
-> business value, and delivers actionable retention recommendations —
-> built as a production-ready ML pipeline with an interactive dashboard.
+Acquiring a new customer costs **5–7× more** than retaining one.
+This project predicts which customers will churn, segments them by
+business value, and delivers actionable retention recommendations —
+built as a production-ready ML pipeline with an interactive dashboard.
 
 
 ---
@@ -32,19 +32,36 @@ it proactively by answering three questions:
 
 ---
 
-## Dashboard Preview
+## Customer Segmentation
 
-### Executive Overview — KPIs & Segment Analysis
-![Executive Overview](outputs/plots/segment_overview.png)
+> RFM scoring identifies which customers drive revenue and which are at risk.
 
-### Customer Segmentation — CLV & Priority Groups
-![Customer Segmentation](outputs/plots/business_dashboard.png)
+![Segment Overview](outputs/plots/segment_overview.png)
 
-### Predictive Intelligence — Model Performance & SHAP
+---
+
+## Cohort Retention Analysis
+
+> Shows what percentage of customers from each acquisition month are still buying in later months.
+
+![Cohort Retention](outputs/plots/cohort_retention.png)
+
+---
+
+## Model Explainability — SHAP
+
+> ActiveMonths is the strongest churn predictor — customers active across fewer months
+> are consistently pushed toward higher churn probability.
+
 ![SHAP Summary](outputs/plots/shap_summary.png)
 
-### Retention Strategy — Campaign Simulator
-![Retention](outputs/plots/churn_prob_dist.png)
+---
+
+## Model Performance
+
+> ROC curve comparison across all three models. XGBoost selected as production model.
+
+![ROC Curve](outputs/plots/roc_curve.png)
 
 ---
 
@@ -95,33 +112,28 @@ retail_churn/
 ├── app.py                      # Run this second — launches dashboard
 ├── src/
 │   ├── config.py               # All constants and hyperparameters
-│   ├── data_loader.py          # Step 1  — load raw CSV
-│   ├── preprocessing.py        # Steps 2-3 — clean + time windows
-│   ├── feature_engineering.py  # Step 4  — RFM + behavioral features
-│   ├── segmentation.py         # Steps 5,15 — segments + CLV priority
-│   ├── train.py                # Steps 7-9  — feature selection + models
-│   ├── evaluation.py           # Steps 10-12 — metrics + threshold
-│   ├── explainability.py       # Step 11 — SHAP
-│   ├── predict.py              # Step 13 — score all customers
-│   ├── business_metrics.py     # Steps 16-17 — KPIs + validation
-│   └── visualization.py        # All chart generation
+│   ├── data_loader.py
+│   ├── preprocessing.py
+│   ├── feature_engineering.py
+│   ├── segmentation.py
+│   ├── train.py
+│   ├── evaluation.py
+│   ├── explainability.py
+│   ├── predict.py
+│   ├── business_metrics.py
+│   └── visualization.py
 ├── dashboard/
 │   ├── pages/
 │   │   ├── executive_overview.py
 │   │   ├── customer_segmentation.py
 │   │   ├── predictive_intelligence.py
 │   │   └── retention_strategy.py
-│   ├── components/
-│   │   ├── charts.py
-│   │   ├── kpi_cards.py
-│   │   ├── sidebar.py
-│   │   └── tables.py
 │   └── styles/
 │       └── custom.css
 └── outputs/
-    ├── plots/                  # All generated charts (.png)
-    ├── predictions/            # Customer prediction CSVs
-    └── metrics/                # Model metrics JSON files
+    ├── plots/
+    ├── predictions/
+    └── metrics/
 ```
 
 ---
@@ -143,34 +155,7 @@ python pipelines/run_pipeline.py
 streamlit run app.py
 ```
 
-> **Windows users:** If SHAP installation fails, run `python install.py`
-> instead of step 1. It handles the C++ build issue automatically.
-
----
-
-## XGBoost Regularisation
-
-```python
-max_depth        = 3    # shallow trees — primary regularisation
-min_child_weight = 5    # minimum 5 samples per leaf
-subsample        = 0.8  # row subsampling per tree
-colsample_bytree = 0.8  # feature subsampling per tree
-reg_alpha        = 0.1  # L1 regularisation
-reg_lambda       = 1.0  # L2 regularisation
-gamma            = 0.1  # minimum gain required to split
-```
-
----
-
-## Dashboard Pages
-
-| Page | What It Shows |
-|------|--------------|
-| **Home** | Project overview, workflow, setup guide |
-| **Executive Overview** | KPIs, churn by segment, monthly trend |
-| **Customer Segmentation** | CLV distribution, cohort heatmap, customer table with retention recommendations |
-| **Predictive Intelligence** | ROC curve, confusion matrix, SHAP explainability, threshold analysis |
-| **Retention Strategy** | Priority groups, campaign simulator with net profit estimate |
+> **Windows users:** If SHAP installation fails, run `python install.py` instead of step 1.
 
 ---
 
