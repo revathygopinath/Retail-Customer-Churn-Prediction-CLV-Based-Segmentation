@@ -1,5 +1,9 @@
 # Retail Customer Churn Prediction & CLV-Based Segmentation
 
+ **Live Dashboard:**  
+https://retail-customer-churn-prediction-clv-based-segmentation-zehh7s.streamlit.app/?
+
+
 Acquiring a new customer costs **5–7× more** than retaining one.
 This project predicts which customers will churn, segments them by
 business value, and delivers actionable retention recommendations —
