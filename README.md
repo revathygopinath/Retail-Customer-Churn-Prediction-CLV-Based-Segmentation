@@ -53,7 +53,7 @@ it proactively by answering three questions:
 > ActiveMonths is the strongest churn predictor — customers active across fewer months
 > are consistently pushed toward higher churn probability.
 
-![SHAP Summary](outputs/plots/shap_summary.png)
+![SHAP Summary](outputs/plots/shap_bar.png)
 
 ---
 
@@ -61,7 +61,7 @@ it proactively by answering three questions:
 
 > ROC curve comparison across all three models. XGBoost selected as production model.
 
-![ROC Curve](outputs/plots/roc_curve.png)
+![ROC Curve](outputs/plots/model_evaluation.png)
 
 ---
 
